@@ -1,5 +1,7 @@
 import os
 import time
+from PIL import Image
+
 
 import google.generativeai as genai
 # import weaviate
@@ -29,7 +31,9 @@ generation_config = genai.types.GenerationConfig(
     top_p=1
 )
 
-messages = "Make search query online about : large size t-shirt"
+# for Text
+
+messages = "Make search query for Google Search online in amazon about : large size t-shirt"
 
 # preprocess_chat_history(chatbot)
 
@@ -50,5 +54,34 @@ def get_response(res):
             # yield chatbot
     print(chatbot)
 
-get_response(response)
+# get_response(response)
 
+
+# for Images
+IMAGE_WIDTH = 512
+file = 'test.png'
+text_prompt = "Make search query for this clothes in Google Search online with amazon\n"
+
+def preprocess_image(image):
+    image_height = int(image.height * IMAGE_WIDTH / image.width)
+    return image.resize((IMAGE_WIDTH, image_height))
+
+image = Image.open(file).convert('RGB')
+image = preprocess_image(image)
+
+image_prompt = Image.open(file).convert('RGB')
+model = genai.GenerativeModel('gemini-pro-vision')
+
+
+prompt_parts = [
+  text_prompt,
+  image,
+]
+
+response = model.generate_content(
+    prompt_parts,
+    stream=True,
+    generation_config=generation_config
+)
+
+get_response(response)
