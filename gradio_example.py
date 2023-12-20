@@ -281,6 +281,6 @@ with gr.Blocks() as demo:
         queue=False
     )
     
-    # history_component.append((message, 'bot_message'))
+    # TODO: save chat history in history component
 
 demo.queue(max_size=99).launch(debug=False, show_error=True)
