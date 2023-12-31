@@ -110,7 +110,8 @@ def bot(
             stream=True,
             generation_config=generation_config)
     else:
-        messages = preprocess_chat_history(chatbot)
+        # messages = preprocess_chat_history(chatbot)
+        messages = chatbot[-1][0]
         model = genai.GenerativeModel('gemini-pro')
         response = model.generate_content(
             messages,

@@ -1,0 +1,2648 @@
+{
+  "search_metadata": {
+    "id": "659165cc629a010d8ac445bb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/604166b504b655cb/659165cc629a010d8ac445bb.json",
+    "created_at": "2023-12-31 12:59:56 UTC",
+    "processed_at": "2023-12-31 12:59:56 UTC",
+    "google_shopping_url": "https://www.google.com/search?tbm=shop&q=black+hoodie&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/604166b504b655cb/659165cc629a010d8ac445bb.html",
+    "total_time_taken": 2.87
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "black hoodie",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "shopping_results_state": "Results for exact spelling",
+    "query_displayed": "black hoodie",
+    "menu_items": [
+      {
+        "position": 1,
+        "title": "All",
+        "link": "https://www.google.com/url?url=/search%3Fq%3Dblack%2Bhoodie%26sca_esv%3D594742070%26gl%3Dus%26hl%3Den%26source%3Dlnms&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQi6AMCL0T&usg=AOvVaw3EqWYH1TbkKzpJTHX8DVze"
+      },
+      {
+        "position": 2,
+        "title": "Images",
+        "link": "https://www.google.com/url?url=/search%3Fq%3Dblack%2Bhoodie%26sca_esv%3D594742070%26gl%3Dus%26hl%3Den%26tbm%3Disch%26source%3Dlnms&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQi6AMCL8T&usg=AOvVaw00cfJ1fscc2BP-UVK7z6g7"
+      },
+      {
+        "position": 3,
+        "title": "Maps",
+        "link": "https://www.google.com/url?url=https://maps.google.com/maps%3Fq%3Dblack%2Bhoodie%26gl%3Dus%26hl%3Den%26um%3D1%26ie%3DUTF-8&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQi6AMCMET&usg=AOvVaw3-ySsGuQ8CF68odU2bKdbN"
+      },
+      {
+        "position": 4,
+        "title": "Shopping"
+      },
+      {
+        "position": 5,
+        "title": "Videos",
+        "link": "https://www.google.com/url?url=/search%3Fq%3Dblack%2Bhoodie%26sca_esv%3D594742070%26gl%3Dus%26hl%3Den%26tbm%3Dvid%26source%3Dlnms&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQi6AMCMcTKAA&usg=AOvVaw0JNpll7SBQq2qwTY1V6v7C"
+      },
+      {
+        "position": 6,
+        "title": "News",
+        "link": "https://www.google.com/url?url=/search%3Fq%3Dblack%2Bhoodie%26sca_esv%3D594742070%26gl%3Dus%26hl%3Den%26tbm%3Dnws%26source%3Dlnms&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQi6AMCMgTKAE&usg=AOvVaw2J5aOIImQqQ1Rv0KlYZsdQ"
+      },
+      {
+        "position": 7,
+        "title": "Books",
+        "link": "https://www.google.com/url?url=/search%3Fq%3Dblack%2Bhoodie%26sca_esv%3D594742070%26gl%3Dus%26hl%3Den%26tbm%3Dbks%26source%3Dlnms&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQi6AMCMkTKAI&usg=AOvVaw1FU6xOMk80GysgCln70KsX"
+      },
+      {
+        "position": 8,
+        "title": "Flights",
+        "link": "https://www.google.com/url?url=https://www.google.com/travel/flights%3Fq%3Dblack%2Bhoodie%26sca_esv%3D594742070%26gl%3Dus%26hl%3Den%26tbm%3Dflm%26source%3Dlnms&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQi6AMCMoTKAM&usg=AOvVaw3_9QzYzjcKRsTVpwZZ54aI"
+      },
+      {
+        "position": 9,
+        "title": "Finance",
+        "link": "https://www.google.com/url?url=https://www.google.com/finance&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQi6AMCMsTKAQ&usg=AOvVaw0YgfHJ6C7Z6x0uNlA3mYnC"
+      }
+    ],
+    "location_detected": "East Bronx, NY"
+  },
+  "filters": [
+    {
+      "type": "Show only",
+      "options": [
+        {
+          "text": "Available nearby",
+          "tbs": "mr:1,local_avail:1,ss:55"
+        },
+        {
+          "text": "On sale",
+          "tbs": "mr:1,sales:1"
+        }
+      ]
+    },
+    {
+      "type": "Price",
+      "options": [
+        {
+          "text": "Up to $10",
+          "tbs": "mr:1,price:1,ppr_max:10"
+        },
+        {
+          "text": "$10 \u2013 $20",
+          "tbs": "mr:1,price:1,ppr_min:10,ppr_max:20"
+        },
+        {
+          "text": "$20 \u2013 $35",
+          "tbs": "mr:1,price:1,ppr_min:20,ppr_max:35"
+        },
+        {
+          "text": "$35 \u2013 $60",
+          "tbs": "mr:1,price:1,ppr_min:35,ppr_max:60"
+        },
+        {
+          "text": "Over $60",
+          "tbs": "mr:1,price:1,ppr_min:60"
+        }
+      ]
+    },
+    {
+      "type": "Color",
+      "options": [
+        {
+          "tbs": "mr:1,color:specific,color_val:black"
+        },
+        {
+          "tbs": "mr:1,color:specific,color_val:gray"
+        },
+        {
+          "tbs": "mr:1,color:specific,color_val:red"
+        },
+        {
+          "tbs": "mr:1,color:specific,color_val:orange"
+        },
+        {
+          "tbs": "mr:1,color:specific,color_val:yellow"
+        },
+        {
+          "tbs": "mr:1,color:specific,color_val:blue"
+        }
+      ]
+    },
+    {
+      "type": "Material",
+      "options": [
+        {
+          "text": "Polyester",
+          "tbs": "mr:1,pdtr0:965178%7C1634148"
+        },
+        {
+          "text": "Cotton Blend",
+          "tbs": "mr:1,pdtr0:965178%7C1634130"
+        },
+        {
+          "text": "Fleece",
+          "tbs": "mr:1,pdtr0:965178%7C965188"
+        },
+        {
+          "text": "Cotton",
+          "tbs": "mr:1,pdtr0:965178%7C965397"
+        },
+        {
+          "text": "Spandex",
+          "tbs": "mr:1,pdtr0:965178%7C1634155"
+        }
+      ]
+    },
+    {
+      "type": "Active Style",
+      "options": [
+        {
+          "text": "Running",
+          "tbs": "mr:1,pdtr0:2726037%7C2726042"
+        },
+        {
+          "text": "Golf",
+          "tbs": "mr:1,pdtr0:2726037%7C2726038"
+        }
+      ]
+    },
+    {
+      "type": "Season",
+      "options": [
+        {
+          "text": "Winter",
+          "tbs": "mr:1,pdtr0:6802922%7C6802924"
+        },
+        {
+          "text": "Fall",
+          "tbs": "mr:1,pdtr0:6802922%7C6802923"
+        },
+        {
+          "text": "Spring",
+          "tbs": "mr:1,pdtr0:6802922%7C6803483"
+        },
+        {
+          "text": "Summer",
+          "tbs": "mr:1,pdtr0:6802922%7C6803484"
+        }
+      ]
+    },
+    {
+      "type": "Fastening Style",
+      "options": [
+        {
+          "text": "Pullover",
+          "tbs": "mr:1,pdtr0:2154444%7C6803280"
+        },
+        {
+          "text": "Zipper",
+          "tbs": "mr:1,pdtr0:2154444%7C2154447"
+        }
+      ]
+    },
+    {
+      "type": "Embellishment",
+      "options": [
+        {
+          "text": "Print",
+          "tbs": "mr:1,pdtr0:6844100%7C6844280"
+        },
+        {
+          "text": "Embroidery",
+          "tbs": "mr:1,pdtr0:6844100%7C6844101"
+        },
+        {
+          "text": "Applique",
+          "tbs": "mr:1,pdtr0:6844100%7C6844279"
+        }
+      ]
+    },
+    {
+      "type": "Fit",
+      "options": [
+        {
+          "text": "Oversize",
+          "tbs": "mr:1,pdtr0:6882371%7C6882475"
+        },
+        {
+          "text": "Athletic",
+          "tbs": "mr:1,pdtr0:6882371%7C6882563"
+        },
+        {
+          "text": "Relaxed",
+          "tbs": "mr:1,pdtr0:6882371%7C6882414"
+        },
+        {
+          "text": "Slim",
+          "tbs": "mr:1,pdtr0:6882371%7C6882526"
+        }
+      ]
+    },
+    {
+      "type": "Length",
+      "options": [
+        {
+          "text": "Waist",
+          "tbs": "mr:1,pdtr0:6803022%7C6802819"
+        },
+        {
+          "text": "Hip",
+          "tbs": "mr:1,pdtr0:6803022%7C6803227"
+        }
+      ]
+    },
+    {
+      "type": "Pocket Style",
+      "options": [
+        {
+          "text": "Slit",
+          "tbs": "mr:1,pdtr0:6821102%7C6820546"
+        },
+        {
+          "text": "Flap",
+          "tbs": "mr:1,pdtr0:6821102%7C6814034"
+        },
+        {
+          "text": "Patch",
+          "tbs": "mr:1,pdtr0:6821102%7C6821153"
+        }
+      ]
+    },
+    {
+      "type": "Brand",
+      "options": [
+        {
+          "text": "Nike",
+          "tbs": "mr:1,pdtr0:997763%7C1011839"
+        },
+        {
+          "text": "boohooMAN",
+          "tbs": "mr:1,pdtr0:997763%7C2879953"
+        },
+        {
+          "text": "PrettyLittleThing",
+          "tbs": "mr:1,pdtr0:997763%7C1722047"
+        },
+        {
+          "text": "Carhartt",
+          "tbs": "mr:1,pdtr0:997763%7C1012573"
+        }
+      ]
+    },
+    {
+      "type": "Department",
+      "options": [
+        {
+          "text": "Men's",
+          "tbs": "mr:1,pdtr0:1020288%7C1020289"
+        },
+        {
+          "text": "Women's",
+          "tbs": "mr:1,pdtr0:1020288%7C1020290"
+        }
+      ]
+    },
+    {
+      "type": "Size",
+      "options": [
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021369"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021370"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C2904401"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021371"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C2904402"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021372"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C2904403"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021390"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C7574505"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021373"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C2904405"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021374"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C7574278"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C7574506"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021375"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C7574956"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021376"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C7574279"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021377"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021378"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C7574329"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021379"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021394"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C7574280"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021395"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021396"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021397"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021405"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021433"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021381"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021382"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021383"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021384"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021385"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021386"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021387"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021388"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021389"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021468"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021469"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021470"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C7537802"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C4869440"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C4869445"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C4869442"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C4869447"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C4869443"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C7537780"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C7535431"
+        },
+        {
+          "tbs": "mr:1,pdtr0:1021368%7C1021471"
+        }
+      ]
+    },
+    {
+      "type": "Neckline",
+      "options": [
+        {
+          "text": "High Neck",
+          "tbs": "mr:1,pdtr0:2613451%7C2753533"
+        },
+        {
+          "text": "Round Neck",
+          "tbs": "mr:1,pdtr0:2613451%7C2613453"
+        },
+        {
+          "text": "V-neck",
+          "tbs": "mr:1,pdtr0:2613451%7C2613455"
+        }
+      ]
+    },
+    {
+      "type": "Shipping & returns",
+      "options": [
+        {
+          "text": "Free returns",
+          "tbs": "mr:1,free_return:1"
+        },
+        {
+          "text": "1-3 day delivery",
+          "tbs": "mr:1,shipspeed:3"
+        },
+        {
+          "text": "Free shipping",
+          "tbs": "mr:1,ship:1"
+        }
+      ]
+    },
+    {
+      "type": "Discover",
+      "options": [
+        {
+          "text": "Women-owned businesses",
+          "tbs": "mr:1,dei:2"
+        },
+        {
+          "text": "Veteran-owned businesses",
+          "tbs": "mr:1,dei:3"
+        },
+        {
+          "text": "Latino-owned businesses",
+          "tbs": "mr:1,dei:4"
+        }
+      ]
+    },
+    {
+      "type": "Product rating",
+      "options": [
+        {
+          "text": "4 and up",
+          "tbs": "mr:1,avg_rating:400"
+        },
+        {
+          "text": "3 and up",
+          "tbs": "mr:1,avg_rating:300"
+        },
+        {
+          "text": "2 and up",
+          "tbs": "mr:1,avg_rating:200"
+        },
+        {
+          "text": "1 and up",
+          "tbs": "mr:1,avg_rating:100"
+        }
+      ]
+    },
+    {
+      "type": "Condition",
+      "options": [
+        {
+          "text": "New items",
+          "tbs": "mr:1,new:1"
+        },
+        {
+          "text": "Used items",
+          "tbs": "mr:1,new:3"
+        }
+      ]
+    },
+    {
+      "type": "Seller",
+      "options": [
+        {
+          "text": "Academy Sports + Outdoors",
+          "tbs": "mr:1,merchagg:m9039075"
+        },
+        {
+          "text": "Aerie",
+          "tbs": "mr:1,merchagg:g105531261%7Cm127820640"
+        },
+        {
+          "text": "Amazon.com - Seller",
+          "tbs": "mr:1,merchagg:g113872638%7Cm114193152%7Cm7388148"
+        },
+        {
+          "text": "ASOS",
+          "tbs": "mr:1,merchagg:g8266903%7Cm2452833"
+        },
+        {
+          "text": "Blvck Paris",
+          "tbs": "mr:1,merchagg:m199550582"
+        },
+        {
+          "text": "boohoo USA",
+          "tbs": "mr:1,merchagg:g110497891%7Cm113302568"
+        },
+        {
+          "text": "boohooMAN US",
+          "tbs": "mr:1,merchagg:g118471149%7Cm117612547"
+        },
+        {
+          "text": "DICK'S Sporting Goods",
+          "tbs": "mr:1,merchagg:m7972"
+        },
+        {
+          "text": "DiscountMugs.com",
+          "tbs": "mr:1,merchagg:g101373524%7Cm3351413"
+        },
+        {
+          "text": "Dungarees",
+          "tbs": "mr:1,merchagg:m1162823"
+        },
+        {
+          "text": "eBay",
+          "tbs": "mr:1,merchagg:g6296794%7Cm6296724"
+        },
+        {
+          "text": "Foot Locker",
+          "tbs": "mr:1,merchagg:g528982%7Cm9005"
+        },
+        {
+          "text": "Gap",
+          "tbs": "mr:1,merchagg:g3770595%7Cm3770615%7Cm111532587"
+        },
+        {
+          "text": "GOAT",
+          "tbs": "mr:1,merchagg:g120626052%7Cm118150184"
+        },
+        {
+          "text": "Grailed",
+          "tbs": "mr:1,merchagg:g5076689716%7Cm142654306"
+        },
+        {
+          "text": "H&M",
+          "tbs": "mr:1,merchagg:g15800641%7Cm15800731"
+        },
+        {
+          "text": "Hanes",
+          "tbs": "mr:1,merchagg:g527236%7Cm1518856"
+        },
+        {
+          "text": "Hibbett Sports",
+          "tbs": "mr:1,merchagg:g104830196%7Cm115098843"
+        },
+        {
+          "text": "Hollister Co - Official",
+          "tbs": "mr:1,merchagg:g9347388%7Cm9347588"
+        },
+        {
+          "text": "Instacart",
+          "tbs": "mr:1,merchagg:g128518585%7Cm314319277"
+        },
+        {
+          "text": "Kohl's",
+          "tbs": "mr:1,merchagg:g102279194%7Cm6382239"
+        },
+        {
+          "text": "Macy's",
+          "tbs": "mr:1,merchagg:g118286685%7Cm7866"
+        },
+        {
+          "text": "ModeSens",
+          "tbs": "mr:1,merchagg:g126295118%7Cm104294049"
+        },
+        {
+          "text": "Nike",
+          "tbs": "mr:1,merchagg:g109116125%7Cm4178394"
+        },
+        {
+          "text": "Nordstrom",
+          "tbs": "mr:1,merchagg:g126673057%7Cm1243147"
+        },
+        {
+          "text": "Nordstrom Rack",
+          "tbs": "mr:1,merchagg:g112200796%7Cm100921846"
+        },
+        {
+          "text": "PrettyLittleThing",
+          "tbs": "mr:1,merchagg:m112396738"
+        },
+        {
+          "text": "Public Lands",
+          "tbs": "mr:1,merchagg:m477117549"
+        },
+        {
+          "text": "SNIPES USA",
+          "tbs": "mr:1,merchagg:g110252371%7Cm10670158"
+        },
+        {
+          "text": "Soxy",
+          "tbs": "mr:1,merchagg:m116738959"
+        },
+        {
+          "text": "StockX",
+          "tbs": "mr:1,merchagg:g119638437%7Cm111829866"
+        },
+        {
+          "text": "Target",
+          "tbs": "mr:1,merchagg:g784994%7Cm10046"
+        },
+        {
+          "text": "Tillys",
+          "tbs": "mr:1,merchagg:m93955"
+        },
+        {
+          "text": "Urban Outfitters",
+          "tbs": "mr:1,merchagg:g100381501%7Cm1232061"
+        },
+        {
+          "text": "Walmart",
+          "tbs": "mr:1,merchagg:g8299768%7Cm8175035%7Cm623308502%7Cm504990284"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Fear of God Essentials Pullover Hoodie 'Stretch Limo' FW22 | Black | Men's Size XL",
+      "link": "https://www.goat.com/apparel/fear-of-god-essentials-hoodie-stretch-limo-192bt212110f?srsltid=AfmBOooWOHa9qrQAnwK7Y25jcu_E0KaAP1mKtdQ3Zm8VX4DTeorjXFR5BwM",
+      "product_link": "https://www.google.com/shopping/product/14286738053684503345?gl=us",
+      "product_id": "14286738053684503345",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14286738053684503345",
+      "source": "GOAT",
+      "price": "$71.00",
+      "extracted_price": 71.0,
+      "rating": 3.8,
+      "reviews": 1041,
+      "extensions": [
+        "$7.00 below typical",
+        "LOW PRICE"
+      ],
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaF9XBmeaevyKTuSO95qiAQgT3VJmcHJwDCLvdj7k1WJoa1YUOJsOsHkWoiFKRg3jUdi-8bxCh6qu5eLJnwIw2aC-2pFHw93GNpPd77pT27fXNkQJdaR6KXw&usqp=CAE",
+      "tag": "LOW PRICE",
+      "delivery": "Delivery by Sat, Jan 6 \u00b7 Free 3-day returns",
+      "store_rating": 4.2,
+      "store_reviews": 445
+    },
+    {
+      "position": 2,
+      "title": "Men's Essential Popover Hoodie in Black | Size Xs | Abercrombie & Fitch",
+      "link": "https://www.abercrombie.com/shop/us/p/oversized-essential-colorblock-popover-hoodie-46732320?seq=36&source=googleshopping",
+      "product_link": "https://www.google.com/shopping/product/8648472618516883744?gl=us",
+      "product_id": "8648472618516883744",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8648472618516883744",
+      "source": "Abercrombie & Fitch",
+      "price": "$51.00",
+      "extracted_price": 51.0,
+      "old_price": "$60.00",
+      "extracted_old_price": 60.0,
+      "rating": 4.8,
+      "reviews": 1946,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0JC5Ii90Zfyn815ZUuZ9rfeCTpK9h_3Nc8IpX93xNxYUToB4eQGo2C6YkfoGIatZscyuQfajYFyMt9d0ojr3Dlw6MZM2tnjNHKbYYZ8NQ4Sb4WFMJkbS6&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Wed, Jan 10",
+      "store_rating": 4.6
+    },
+    {
+      "position": 3,
+      "title": "DSG Men's Fleece Hoodie, Medium, Pure Black",
+      "link": "https://www.dickssportinggoods.com/p/dsg-mens-fleece-hoodie-21qyfmflchdxxxxxxdsg/21qyfmflchdxxxxxxdsg?sku=23007392&srsltid=AfmBOoqjwxa5-I5kINc9IKXhX7gW3bZ54r0l0Jl_N29L7pzVvbMTI7D8ZV8",
+      "product_link": "https://www.google.com/shopping/product/11379886750135881861?gl=us",
+      "product_id": "11379886750135881861",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11379886750135881861",
+      "number_of_comparisons": "2",
+      "comparison_link": "https://www.google.com/shopping/product/11379886750135881861/offers?q=black+hoodie&gl=us&hl=en&prds=eto:8132171081893263903_0,pid:2318889455675073845,rsk:PC_14517708154461516472&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECIgW",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A8132171081893263903_0%2Cpid%3A2318889455675073845%2Crsk%3APC_14517708154461516472&gl=us&hl=en&offers=1&product_id=11379886750135881861&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECIgW",
+      "source": "DICK'S Sporting Goods",
+      "price": "$29.98",
+      "extracted_price": 29.98,
+      "old_price": "$40.00",
+      "extracted_old_price": 40.0,
+      "rating": 4.6,
+      "reviews": 366,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTch2OGXoLbQgYOQOjXbKJ5qidCe1ssedmV0Cy5VNK9Ggp0Tf0Ui-rQO3-tueaMZt1p83DQAdJu-tzqHDa4j95GVyX_yWjqqZ_cdeRCaGM&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Thu, Jan 4 \u00b7 Free 90-day returns",
+      "store_rating": 4.6,
+      "store_reviews": 108
+    },
+    {
+      "position": 4,
+      "title": "Men - Black Loose Fit Hoodie - Size: XL - H&M",
+      "link": "https://www2.hm.com/en_us/productpage.0970819001.html?srsltid=AfmBOooXunPGeJBqATInHy20PO478ZFDNohISM3VBKonFTed1-4QBrzO5ZU",
+      "product_link": "https://www.google.com/shopping/product/3595488535130117371?gl=us",
+      "product_id": "3595488535130117371",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3595488535130117371",
+      "source": "H&M",
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "rating": 4.7,
+      "reviews": 26698,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRrfoHDWR4hUxncim60LsrpmZ2JDMikkw8v4oC67GRGYz83f4DfDPE_IQR0O_0mQ9xFQ6y2-Z1Z065hYCYIk8raVNDzoEKWfAt23MHolrluhzSvW2ul11ULcQ&usqp=CAE",
+      "delivery": "Delivery by Mon, Jan 8",
+      "store_rating": 4.5,
+      "store_reviews": 102
+    },
+    {
+      "position": 5,
+      "title": "Champion Men's Powerblend Fleece Pullover Hoodie Black",
+      "link": "https://www.amazon.com/Champion-Powerblend-Pullover-Hoodie-XX-Large/dp/B01HIUTCUS?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "product_link": "https://www.google.com/shopping/product/2828105373375059154?gl=us",
+      "product_id": "2828105373375059154",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2828105373375059154",
+      "number_of_comparisons": "10+",
+      "comparison_link": "https://www.google.com/shopping/product/2828105373375059154/offers?q=black+hoodie&gl=us&hl=en&prds=eto:11840349051367249435_0,pid:10385654533017004945,rsk:PC_15955121797833976120&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECLEW",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A11840349051367249435_0%2Cpid%3A10385654533017004945%2Crsk%3APC_15955121797833976120&gl=us&hl=en&offers=1&product_id=2828105373375059154&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECLEW",
+      "source": "Amazon.com",
+      "price": "$30.00",
+      "extracted_price": 30.0,
+      "rating": 4.5,
+      "reviews": 2844,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBohh_EQYWujxMcQAUQNZoZ5YA7yI6i8ReJ-Z1vAnE1y_46LRdXDkjCiTE-u_MOAnyrYL3KWULANMIG4xIQJf-T9tjoxfDog_m9ZSnF5s&usqp=CAE",
+      "delivery": "$7.68 delivery",
+      "store_rating": 4.6,
+      "store_reviews": 2300.0
+    },
+    {
+      "position": 6,
+      "title": "Zara - Hoodie Sweatshirt - Black - Unisex",
+      "link": "https://www.zara.com/us/en/hoodie-sweatshirt-p00088600.html?v1=311302913",
+      "product_link": "https://www.google.com/shopping/product/1326587519223810429?gl=us",
+      "product_id": "1326587519223810429",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1326587519223810429",
+      "source": "Zara USA",
+      "price": "$25.90",
+      "extracted_price": 25.9,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSTpDqya5TcrPmU_WabTcBW9UKaYAfcSUbr8TApf49GotGpwZkQPDhX4T0MPVlZuZ4oAgSoI4SmCQVjrO33HyQlE1kD1oHvU3VdhqXvZ1mn738S_0AfZGQft4M&usqp=CAE",
+      "delivery": "Delivery by Wed, Jan 10 \u00b7 Free 30-day returns",
+      "store_rating": 4.3,
+      "store_reviews": 150
+    },
+    {
+      "position": 7,
+      "title": "Men's Tek Gear Ultra Soft Fleece Hoodie, Size: Large, Black",
+      "link": "https://www.kohls.com/product/prd-4972082/mens-tek-gear-ultra-soft-fleece-hoodie.jsp?skuid=34079939&CID=seo_offers&utm_campaign=SAG&utm_medium=organic&utm_source=google&utm_product=34079939",
+      "product_link": "https://www.google.com/shopping/product/10398858753221558719?gl=us",
+      "product_id": "10398858753221558719",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10398858753221558719",
+      "number_of_comparisons": "2",
+      "comparison_link": "https://www.google.com/shopping/product/10398858753221558719/offers?q=black+hoodie&gl=us&hl=en&prds=eto:8212387602654819696_0,pid:9640157800586649255&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECNYW",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A8212387602654819696_0%2Cpid%3A9640157800586649255&gl=us&hl=en&offers=1&product_id=10398858753221558719&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECNYW",
+      "source": "Kohl's",
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTqb-UfA7zG667CX2b5w2uLSu-0lAnmYeWCce32M3fFHkVIAawYtdAw4TzRWKT0_NW2ia1kx2txGua1ycztfBRkzOixW7kReJj7QzbnJ6fvgLQ4YU_SrNU_&usqp=CAE",
+      "delivery": "$8.95 delivery",
+      "store_rating": 4.5,
+      "store_reviews": 160
+    },
+    {
+      "position": 8,
+      "title": "Adult Pullover Hoodie by Make Market in Black | X-Large | Michaels",
+      "link": "https://www.michaels.com/product/mm-hoodie-black-xl-10728160",
+      "product_link": "https://www.google.com/shopping/product/12803920562234499367?gl=us",
+      "product_id": "12803920562234499367",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12803920562234499367",
+      "source": "Michaels Stores",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "rating": 4.8,
+      "reviews": 109,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTco3wkA43yCk5dzZJV66DPt7BTZu0uK4QfmHCaqNDCCAAYNeCUwSmH3ywPU3LrSXiB75jRAIewUE-1QG3E0Q1UaIAcwTn6a24z22KQXC9ioECVBxJnKfvqtg&usqp=CAE",
+      "tag": "SAME-DAY DELIVERY",
+      "extensions": [
+        "SAME-DAY DELIVERY"
+      ],
+      "delivery": "4.1 mi \u00b7 In stock \u00b7 Free 60-day returns",
+      "store_rating": 4.6,
+      "store_reviews": 77
+    },
+    {
+      "position": 9,
+      "title": "Fear of God Essentials 3D Silicon Applique Pullover Hoodie Dark Slate/Stretch ...",
+      "link": "https://stockx.com/fear-of-god-essentials-3d-silicon-applique-pullover-hoodie-dark-slate?country=US&currencyCode=USD&size=M&srsltid=AfmBOooqaK3qKQt1BmFsfbnpptmlcirs8Sd-3K-vOLDnvryjVafiFrEkSn8",
+      "product_link": "https://www.google.com/shopping/product/2472946940302107528?gl=us",
+      "product_id": "2472946940302107528",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2472946940302107528",
+      "source": "StockX",
+      "price": "$104.00",
+      "extracted_price": 104.0,
+      "rating": 3.8,
+      "reviews": 51,
+      "extensions": [
+        "$59.00 below typical",
+        "LOW PRICE"
+      ],
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTRCYN8XREnDW6Ufzeq1XXr7hF8H6zTTaGXMsu7dy13VuWMig2U5qbnVcdHpip0SK9GEqX4Xj76CarDdKC0mjbemn-fXIZLtbElOPkr9GrI0KnH7OKWfI9Ipg&usqp=CAE",
+      "tag": "LOW PRICE",
+      "delivery": "$20.23 delivery",
+      "store_rating": 4.1,
+      "store_reviews": 40300.0
+    },
+    {
+      "position": 10,
+      "title": "Gildan Black Youth Hooded Sweatshirt - Medium",
+      "link": "https://www.hobbylobby.com/Wearable-Art/T-Shirts-Clothing/Youth/Black-Youth-Hooded-Sweatshirt--Medium/p/80805454?srsltid=AfmBOorPb7qmhuiBEzRCCDFoZEhZ31TtlvGvxGZ5Qwwm5jKUP3l6pHf8Z-I",
+      "product_link": "https://www.google.com/shopping/product/17838078747131984145?gl=us",
+      "product_id": "17838078747131984145",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17838078747131984145",
+      "number_of_comparisons": "5+",
+      "comparison_link": "https://www.google.com/shopping/product/17838078747131984145/offers?q=black+hoodie&gl=us&hl=en&prds=eto:10974920844079029168_0,pid:9961261822251919631,rsk:PC_17865327239943938137&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECNoX",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A10974920844079029168_0%2Cpid%3A9961261822251919631%2Crsk%3APC_17865327239943938137&gl=us&hl=en&offers=1&product_id=17838078747131984145&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECNoX",
+      "source": "Hobby Lobby",
+      "price": "$9.79",
+      "extracted_price": 9.79,
+      "old_price": "$13.99",
+      "extracted_old_price": 13.99,
+      "rating": 4.7,
+      "reviews": 112,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSwP7pKrx1VmhyNOB3Tb6SsF-zzqbqoiQi4UBxmr9FfkcQpHaY_i5YsqJdKARnNAyZdZchTvo-DVmgRYPSeakqKrZ33y3xKkXX8kdAeABQ&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Fri, Jan 5",
+      "store_rating": 4.6,
+      "store_reviews": 135
+    },
+    {
+      "position": 11,
+      "title": "Ladies - Black Hoodie - Size: XL - H&M",
+      "link": "https://www2.hm.com/en_us/productpage.0456163060.html?srsltid=AfmBOopQ4ul289aQEKU4c_MicEsd9VYv94HsIxAzqHsD4H8W6mbV9sXiStI",
+      "product_link": "https://www.google.com/shopping/product/2941927050099560536?gl=us",
+      "product_id": "2941927050099560536",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2941927050099560536",
+      "source": "H&M",
+      "price": "$20.99",
+      "extracted_price": 20.99,
+      "rating": 4.6,
+      "reviews": 9641,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTfUuJ90T9XCUS6J26wm8RBB5LvVimmG_xkZhGrBOhE83m4VkEPgE9XbKmvLfNop72f6woNcSgPJTBbPR_ZUMC-bAeM9PQYb-dkSGn385Etc_dttHVn22tn_A&usqp=CAE",
+      "delivery": "Delivery by Mon, Jan 8",
+      "store_rating": 4.5,
+      "store_reviews": 102
+    },
+    {
+      "position": 12,
+      "title": "Men's Feel Good Hoodie in Black Size Xs from Hollister",
+      "link": "https://www.hollisterco.com/shop/us/p/hollister-feel-good-hoodie-53392322?seq=05&utm_source=googleshopping",
+      "product_link": "https://www.google.com/shopping/product/3168852192309307127?gl=us",
+      "product_id": "3168852192309307127",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3168852192309307127",
+      "source": "Hollister Co - Official",
+      "price": "$25.00",
+      "extracted_price": 25.0,
+      "old_price": "$39.95",
+      "extracted_old_price": 39.95,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6g-qLkpfr-zrmmG5hcyJENVmhqTJfHdEc4gtNIGM2EI6wmM8QpwhmNGndTP2w_snVE3rznNoSAoYZLdQ5UUlvxPYWUwDHuuDMA3FVlaSqUrXWA4EvShgyNg&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Fri, Jan 12",
+      "store_rating": 4.7
+    },
+    {
+      "position": 13,
+      "title": "Polo Ralph Lauren Men's Full-Zip Fleece Hoodie - Polo Black - Size M",
+      "link": "https://www.ralphlauren.com/men-clothing-sweatshirts/fleece-full-zip-hoodie/0024283889.html?utm_source=organiccse&utm_medium=GooglePLA",
+      "product_link": "https://www.google.com/shopping/product/691112258494478602?gl=us",
+      "product_id": "691112258494478602",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=691112258494478602",
+      "number_of_comparisons": "10+",
+      "comparison_link": "https://www.google.com/shopping/product/691112258494478602/offers?q=black+hoodie&gl=us&hl=en&prds=eto:5580679606759000224_0,pid:661130844529041541,rsk:PC_58938695258628514&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECJMY",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A5580679606759000224_0%2Cpid%3A661130844529041541%2Crsk%3APC_58938695258628514&gl=us&hl=en&offers=1&product_id=691112258494478602&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECJMY",
+      "source": "Ralph Lauren",
+      "price": "$138.00",
+      "extracted_price": 138.0,
+      "rating": 4.6,
+      "reviews": 989,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSeIj8VjJVYU0rFl_rEBMnLnPDhem4rntT6z8oxK9IvhUv8X1iKLIVooPGfKvFT--iuBRjDwc4vpkgVHOHTHng_5901mzALmRsD_8bCi497-apUP8WhYPj8Hw&usqp=CAE",
+      "delivery": "Delivery by Wed, Jan 10 \u00b7 Free 30-day returns",
+      "store_rating": 4.8,
+      "store_reviews": 71
+    },
+    {
+      "position": 14,
+      "title": "Old Navy gender-neutral Zip Hoodie - Black - Size M",
+      "link": "https://oldnavy.gap.com/browse/product.do?pid=692498002&vid=1&tid=onns000009",
+      "product_link": "https://www.google.com/shopping/product/17982174880843506459?gl=us",
+      "product_id": "17982174880843506459",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17982174880843506459",
+      "number_of_comparisons": "2",
+      "comparison_link": "https://www.google.com/shopping/product/17982174880843506459/offers?q=black+hoodie&gl=us&hl=en&prds=eto:17593552404124594718_0,pid:13820785672859716316,rsk:PC_3000670893176529654&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECKcY",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A17593552404124594718_0%2Cpid%3A13820785672859716316%2Crsk%3APC_3000670893176529654&gl=us&hl=en&offers=1&product_id=17982174880843506459&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECKcY",
+      "source": "Old Navy",
+      "price": "$16.00",
+      "extracted_price": 16.0,
+      "old_price": "$24.99",
+      "extracted_old_price": 24.99,
+      "rating": 4.8,
+      "reviews": 1900,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTRr5kZ5xgDoDaWMxlIhpGnzB9upPuhH2xDxJdgcwZ2KbhL6hkQbnsAvUsuf-A-T2YbwtoPrsGJu9l2o4f0COmL07uPT8-IaEl4d2HxY6LS5QNGdqfvd_bKuA&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Mon, Jan 8 \u00b7 Free 30-day returns"
+    },
+    {
+      "position": 15,
+      "title": "Nike - Therma-FIT Pullover Fleece Hoodie - CN9473 S Team Black",
+      "link": "https://www.ebay.com/itm/203827014228?chn=ps&mkevt=1&mkcid=28&var=504754992339&srsltid=AfmBOopJAAmcUeC3TIUOVQRmUPexAXPmYMMFitsTUkpfQsN1RStCZgBsRIg&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+      "product_link": "https://www.google.com/shopping/product/12172847047143256431?gl=us",
+      "product_id": "12172847047143256431",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12172847047143256431",
+      "number_of_comparisons": "10+",
+      "comparison_link": "https://www.google.com/shopping/product/12172847047143256431/offers?q=black+hoodie&gl=us&hl=en&prds=eto:15463496024094405145_0,pid:7223167153483030049,rsk:PC_15895101609214760270&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECLcY",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A15463496024094405145_0%2Cpid%3A7223167153483030049%2Crsk%3APC_15895101609214760270&gl=us&hl=en&offers=1&product_id=12172847047143256431&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECLcY",
+      "source": "eBay - clothingniche",
+      "price": "$71.97",
+      "extracted_price": 71.97,
+      "rating": 4.7,
+      "reviews": 985,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSHHVml6D0kuQmkwoKYXSJAAQxQZg2jEyYinfJ1wvfQBVuuhx3-0w5kd7lCxFaPPF0TN8FHyu-vXyh1ENLIMS_0sPxtPMaS9IFIg4-6k_kitRgkk7ELexaIrg&usqp=CAE",
+      "delivery": "Delivery by Thu, Jan 11"
+    },
+    {
+      "position": 16,
+      "title": "Lckr Mens Heavyweight Pullover Hoodie - Black Size L",
+      "link": "https://www.footlocker.com/product/~/MHK300BK.html?source=shoppingads&locale=en-US&SID=6936&inceptor=1&cm_mmc=paid%20search-_-google-_-g-_-PLA-_-DPA-_--_-P-_-Prospecting-_--_-na-_--_-na-_-PLA-_-na-_--_--_-",
+      "product_link": "https://www.google.com/shopping/product/3431931547624639231?gl=us",
+      "product_id": "3431931547624639231",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3431931547624639231",
+      "source": "Foot Locker",
+      "price": "$49.95",
+      "extracted_price": 49.95,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8QoIHNw8KJjsJRPp1QMGi1HrWmNybVKY9NKizN1kQU40a20HsvqHXqBFCOZ_7wzrg8yGwCcHIudYHnwoVfg12MEe12vG4gD7snvQTK2zOElQRd2lOWVrclA&usqp=CAE",
+      "delivery": "Free delivery",
+      "store_rating": 4.4
+    },
+    {
+      "position": 17,
+      "title": "Pacsun Men's Black Solid Hoodie - Size Small",
+      "link": "https://www.pacsun.com/pacsun/black-solid-hoodie-3955861.html?glCountry=US&glCurrency=USD&XCID=n:google_free_shopping",
+      "product_link": "https://www.google.com/shopping/product/9614996915233030357?gl=us",
+      "product_id": "9614996915233030357",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9614996915233030357",
+      "number_of_comparisons": "2",
+      "comparison_link": "https://www.google.com/shopping/product/9614996915233030357/offers?q=black+hoodie&gl=us&hl=en&prds=eto:15475897587334944596_0,local:1,pid:9401392770847295843,prmr:2,rsk:PC_2061592715009941999&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECN4Y",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A15475897587334944596_0%2Clocal%3A1%2Cpid%3A9401392770847295843%2Cprmr%3A2%2Crsk%3APC_2061592715009941999&gl=us&hl=en&offers=1&product_id=9614996915233030357&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECN4Y",
+      "source": "PacSun",
+      "price": "$30.00",
+      "extracted_price": 30.0,
+      "rating": 2.8,
+      "reviews": 79,
+      "extensions": [
+        "$4.47 below typical",
+        "LOW PRICE"
+      ],
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTo_QkaisUQGD4elctNi-hTpAGOlY-kEHk4LlCDh9Ydwv6cQ_i5tQfGpNIeSL5LLqDOT9H6X5qBpXtNxAtMYOJPaJOdICPytH75PlsQhjrdNsFekjXm1NED&usqp=CAE",
+      "tag": "LOW PRICE",
+      "delivery": "45.9 mi \u00b7 In stock \u00b7 Curbside",
+      "store_rating": 4.1,
+      "store_reviews": 3200.0
+    },
+    {
+      "position": 18,
+      "title": "Men's Tyson Oversized Heavyweight Hoodie in Black Size Small by Fashion Nova",
+      "link": "https://www.fashionnova.com/products/tyson-oversized-heavyweight-hoodie-black?variant=39259540652156&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+      "product_link": "https://www.google.com/shopping/product/3902600649472555927?gl=us",
+      "product_id": "3902600649472555927",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3902600649472555927",
+      "source": "Fashion Nova",
+      "price": "$25.00",
+      "extracted_price": 25.0,
+      "old_price": "$49.99",
+      "extracted_old_price": 49.99,
+      "rating": 4.4,
+      "reviews": 1266,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNNWe8a9H8vWAv11wkxe21kvQPfe8_P6E1IkdT004hnKneJT4wxceljCZsYHg0scpFG-mg1397LerP_J53vuwGnO_yuq9u-y2JweyRyMivUJF-DlgGdvOm&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Tue, Jan 9",
+      "store_rating": 3.7,
+      "store_reviews": 33000
+    },
+    {
+      "position": 19,
+      "title": "Gildan Men's Fleece Hooded Sweatshirt Black Small",
+      "link": "https://www.joann.com/gildan-adult-hooded-sweatshirt/14806418.html?utm_source=google&utm_medium=organicshopping",
+      "product_link": "https://www.google.com/shopping/product/9402244948762471426?gl=us",
+      "product_id": "9402244948762471426",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9402244948762471426",
+      "number_of_comparisons": "10+",
+      "comparison_link": "https://www.google.com/shopping/product/9402244948762471426/offers?q=black+hoodie&gl=us&hl=en&prds=eto:17630093346471733270_0,pid:1112669885611762223,rsk:CID_9402244948762471426&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECIYZ",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A17630093346471733270_0%2Cpid%3A1112669885611762223%2Crsk%3ACID_9402244948762471426&gl=us&hl=en&offers=1&product_id=9402244948762471426&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECIYZ",
+      "source": "JOANN",
+      "price": "$16.09",
+      "extracted_price": 16.09,
+      "old_price": "$22.99",
+      "extracted_old_price": 22.99,
+      "rating": 4.5,
+      "reviews": 63,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT_uiw0jGrC1nnMXiR3ePjmJl3k92ejH-zss2OOlEWqiIOcFytbMwZyd-KG3tmlTZDTur8nUVvi0Uzzh8Ls52lxPL1nJn9HEEJg-LVTqkCq&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Wed, Jan 17",
+      "store_rating": 4.6,
+      "store_reviews": 242
+    },
+    {
+      "position": 20,
+      "title": "Men - Black Regular Fit Hoodie - Size: M - H&M",
+      "link": "https://www2.hm.com/en_us/productpage.0815092001.html?srsltid=AfmBOoocVihltLWEQAFpKYwo0p1QiAvdH8XtYXjScTI7TdGm0q37OO0fbV8",
+      "product_link": "https://www.google.com/shopping/product/6498618528152234946?gl=us",
+      "product_id": "6498618528152234946",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6498618528152234946",
+      "source": "H&M",
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "rating": 4.5,
+      "reviews": 688,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRi5o2ihPJZqbJiUmGNhGF4YuZvdF8Xif5T9Ir2hjPcphfwvlzXvf3mpz3NAKZqSjOmdB97dRbm8dGSAmX6DqGJj_z71G6aGVpjRX6s9NTtrRU_N-Mj08_qHw&usqp=CAE",
+      "delivery": "Delivery by Mon, Jan 8",
+      "store_rating": 4.5,
+      "store_reviews": 102
+    },
+    {
+      "position": 21,
+      "title": "Men's Relaxed Heavyweight Hoodie in Black Size Xs from Hollister",
+      "link": "https://www.hollisterco.com/shop/us/p/relaxed-heavyweight-hoodie-54988325?seq=04&utm_source=googleshopping",
+      "product_link": "https://www.google.com/shopping/product/7398352643484873852?gl=us",
+      "product_id": "7398352643484873852",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7398352643484873852",
+      "source": "Hollister Co - Official",
+      "price": "$23.98",
+      "extracted_price": 23.98,
+      "extensions": [
+        "$11.02 below typical",
+        "LOW PRICE"
+      ],
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvBXdqVNKjeWCKXRhVPjhjQSwQ4v0BrPSYSW3Wy6wVlh5XuUDbu3ubZiZhfGoH_6g-WF_Gw7L2ZXBPUxnAo53rXmo8OpLlaRHE3DLZXr6PvCu7NGMlhi1Q&usqp=CAE",
+      "tag": "LOW PRICE",
+      "delivery": "Delivery by Fri, Jan 12",
+      "store_rating": 4.7
+    },
+    {
+      "position": 22,
+      "title": "Athletic Works Men's Fleece Pullover Hoodie Sweatshirt, Sizes S-3xl, Size: Large ...",
+      "link": "https://www.walmart.com/ip/Athletic-Works-Men-s-Fleece-Pullover-Hoodie-Sweatshirt-Sizes-S-3XL/1674631222?wmlspartner=wlpa&selectedSellerId=0",
+      "product_link": "https://www.google.com/shopping/product/4079798700589419652?gl=us",
+      "product_id": "4079798700589419652",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4079798700589419652",
+      "number_of_comparisons": "2",
+      "comparison_link": "https://www.google.com/shopping/product/4079798700589419652/offers?q=black+hoodie&gl=us&hl=en&prds=eto:961734508450384740_0,pid:56296620802989816,rsk:PC_2817446689410028267&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECL8Z",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A961734508450384740_0%2Cpid%3A56296620802989816%2Crsk%3APC_2817446689410028267&gl=us&hl=en&offers=1&product_id=4079798700589419652&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECL8Z",
+      "source": "Walmart",
+      "price": "$14.48",
+      "extracted_price": 14.48,
+      "rating": 4.4,
+      "reviews": 138,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQIvZc7Ph5oKoALfvsmawkTJhgZ3kjDtBY23-Qtio1IAyeXfS7cwAjWo1FJGcPmIUQCoeX_IROL5jUiOQTN5zyRdcoXwhigRxdRqxBqQ5kN_UlFxmdfs_ti&usqp=CAE",
+      "delivery": "$6.99 delivery \u00b7 Free 90-day returns",
+      "store_rating": 4.5,
+      "store_reviews": 793
+    },
+    {
+      "position": 23,
+      "title": "mnml - Men's Every Day Hoodie - Black - Fleece - Sweats",
+      "link": "https://mnml.la/products/mnml-hoodie-essential-iii-hoodie-m2019-h725-blk?variant=30278057558088&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoq0dfvXxcuXzffPHWhKv2svJ5l2pS3OJ9IRAeEDFMG2KpAruh0LOrM&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+      "product_link": "https://www.google.com/shopping/product/474566846858901377?gl=us",
+      "product_id": "474566846858901377",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=474566846858901377",
+      "number_of_comparisons": "2",
+      "comparison_link": "https://www.google.com/shopping/product/474566846858901377/offers?q=black+hoodie&gl=us&hl=en&prds=eto:398542873456729180_0,pid:4347478363336968665,rsk:PC_6298978482109546748&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECM8Z",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A398542873456729180_0%2Cpid%3A4347478363336968665%2Crsk%3APC_6298978482109546748&gl=us&hl=en&offers=1&product_id=474566846858901377&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECM8Z",
+      "source": "MNML",
+      "price": "$52.00",
+      "extracted_price": 52.0,
+      "rating": 4.9,
+      "reviews": 213,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ4ux8n2GGGnvvyAt9aocQX52SuOUNEg2qaJl_ZqUkXKtaqUNL2Zgz2znexdaP16axPG5iMNVK7Y5JT3aHtLexG0JNmSRjJ9m6rEJr8dRY&usqp=CAE",
+      "delivery": "Delivery by Tue, Jan 9"
+    },
+    {
+      "position": 24,
+      "title": "Men's Arch Logo Hoodie by Gap True Black Size XXL",
+      "link": "https://www.gap.com/browse/product.do?pid=715036042&vid=1&tid=gpns000044",
+      "product_link": "https://www.google.com/shopping/product/5208389977285393034?gl=us",
+      "product_id": "5208389977285393034",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5208389977285393034",
+      "number_of_comparisons": "2",
+      "comparison_link": "https://www.google.com/shopping/product/5208389977285393034/offers?q=black+hoodie&gl=us&hl=en&prds=eto:12265787930152181785_0,pid:4648463824628683500,rsk:PC_17226216085188166313&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECOIZ",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A12265787930152181785_0%2Cpid%3A4648463824628683500%2Crsk%3APC_17226216085188166313&gl=us&hl=en&offers=1&product_id=5208389977285393034&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECOIZ",
+      "source": "Gap",
+      "price": "$49.95",
+      "extracted_price": 49.95,
+      "rating": 4.9,
+      "reviews": 1043,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQwh3P3np6y7vyybEiqn1bQgidsCMSV2rIbo5ETXYt0IebuZ2MUQJBkZn7zcu3egldy35_f6rmjOSJ0_b-kmw0F14TAvrp7pSryWlqDRTOt_f7PHqrZ1OzU&usqp=CAE",
+      "delivery": "Delivery by Mon, Jan 8 \u00b7 Free 30-day returns",
+      "store_rating": 4.5
+    },
+    {
+      "position": 25,
+      "title": "boohoo Mens Bonded Scuba Oversized Hoodie - Black Xs",
+      "link": "https://www.boohooman.com/us/bonded-scuba-oversized-hoodie-/BMM25945-105-37.html?srsltid=AfmBOorS1cn85vkYv3bvMk3PUBQjp_t0E7HBK1aNEOd2AZ_zgD9k0oyLjE4",
+      "product_link": "https://www.google.com/shopping/product/7729878920676217431?gl=us",
+      "product_id": "7729878920676217431",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7729878920676217431",
+      "number_of_comparisons": "2",
+      "comparison_link": "https://www.google.com/shopping/product/7729878920676217431/offers?q=black+hoodie&gl=us&hl=en&prds=eto:4392644390214523670_0,pid:475988867417121699,rsk:PC_9117110795785692429&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECPMZ",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A4392644390214523670_0%2Cpid%3A475988867417121699%2Crsk%3APC_9117110795785692429&gl=us&hl=en&offers=1&product_id=7729878920676217431&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECPMZ",
+      "source": "boohooMAN US",
+      "price": "$22.00",
+      "extracted_price": 22.0,
+      "old_price": "$55.00",
+      "extracted_old_price": 55.0,
+      "rating": 4.2,
+      "reviews": 32,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQZMamLmNkIdPsFeA3i35gsjbxbE8T-NAiuyetZxOXmXtfiSSrkot0ksgmOpugMx_fBMW__asPfo8ziUl63guMR4HzZDoTQzGkkJo0v2hApItO-Rn8yKfO8zQ&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "$9.99 delivery"
+    },
+    {
+      "position": 26,
+      "title": "32 Degrees Men's Cotton Terry Pullover Hoodie Black / S",
+      "link": "https://www.32degrees.com/products/mens-comfort-terry-pullover-hoodie?variant=39394559230041&currency=USD&utm_medium=product_sync&utm_source=google&srsltid=AfmBOor787ArisI9Uzfo2hOLFEqjZyiZYw3FAmRxlywhhBO1gZpXhzMGK8I&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+      "product_link": "https://www.google.com/shopping/product/5750519476519665523?gl=us",
+      "product_id": "5750519476519665523",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5750519476519665523",
+      "source": "32 Degrees",
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "extensions": [
+        "$2.00 below typical",
+        "LOW PRICE"
+      ],
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS7N_iPItOcZ2eBffkwwAAZrr0aTaX-_MPs_Vd1iprcYVTdBWvx3H2RBglBbgTFl3H8UT6tlKqTLCGKvOaeIrz8sIK94r2CuknpSgxXfz48POzj_t4cTVHW&usqp=CAE",
+      "tag": "LOW PRICE",
+      "delivery": "Delivery by Thu, Jan 11",
+      "store_rating": 4.7,
+      "store_reviews": 95500.0
+    },
+    {
+      "position": 27,
+      "title": "VRST Men's Acid Wash Essential Hoodie, Medium, Pure Black",
+      "link": "https://www.golfgalaxy.com/p/vrst-mens-acid-wash-essential-hoodie-23krmmssntlhdcdwsmpd/23krmmssntlhdcdwsmpd?sku=24935366&srsltid=AfmBOoqT6gQEPEb_zxXRA9E3IrGjhgqbm89tL4G2AfJUBmC-vL9wo6nkCmk",
+      "product_link": "https://www.google.com/shopping/product/9896729889421545340?gl=us",
+      "product_id": "9896729889421545340",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9896729889421545340",
+      "number_of_comparisons": "3",
+      "comparison_link": "https://www.google.com/shopping/product/9896729889421545340/offers?q=black+hoodie&gl=us&hl=en&prds=eto:11647874908653509409_0,pid:16922897242602819799,rsk:PC_16740408489870810774&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECJga",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A11647874908653509409_0%2Cpid%3A16922897242602819799%2Crsk%3APC_16740408489870810774&gl=us&hl=en&offers=1&product_id=9896729889421545340&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECJga",
+      "source": "Golf Galaxy",
+      "price": "$48.00",
+      "extracted_price": 48.0,
+      "rating": 4.8,
+      "reviews": 34,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSkw7MOTHbQxrPfZLj2NgJOsRa_apV7INnuZCAN3Ritj9Qxg_XbRN61wMbPv0Nx_H1pCrGokP4gLVi0x6OV2YjM2_exBoMl1Pgc8NafhXZ3txbp5XJ4Yecc2Q&usqp=CAE",
+      "delivery": "$8.99 delivery \u00b7 Free 90-day returns"
+    },
+    {
+      "position": 28,
+      "title": "Snipes Men's Fashion Hoodie in Black | Size 2XL | SNQ323007M-BLK",
+      "link": "https://www.snipesusa.com/fashion-hoodie-snipes-se-black-snq323007m-blk-14623300017.html",
+      "product_link": "https://www.google.com/shopping/product/5606856775605528987?gl=us",
+      "product_id": "5606856775605528987",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5606856775605528987",
+      "number_of_comparisons": "2",
+      "comparison_link": "https://www.google.com/shopping/product/5606856775605528987/offers?q=black+hoodie&gl=us&hl=en&prds=eto:12946506782124612910_0,pid:9179684514061404941&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECKUa",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A12946506782124612910_0%2Cpid%3A9179684514061404941&gl=us&hl=en&offers=1&product_id=5606856775605528987&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECKUa",
+      "source": "SNIPES USA",
+      "price": "$75.00",
+      "extracted_price": 75.0,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQp5umoP4EvEz4aZPD6X__FUDJ_YZGk74zZ6eZCxep6SLIwNq49-LkmAk97WT0DlmRKUfT7_1ctzF7exrpXrgXY6AamjsYNNQ&usqp=CAE",
+      "delivery": "Delivery by Wed, Jan 10"
+    },
+    {
+      "position": 29,
+      "title": "Hanes Men's and Big Men's Ecosmart Fleece Pullover Hoodie, Sizes S-5xl, Black",
+      "link": "https://www.hanes.com/hanes-men-39-s-ecosmart-mid-weight-fleece-hoodie.html?color=43&country=US&currency=USD",
+      "product_link": "https://www.google.com/shopping/product/7978616154188691602?gl=us",
+      "product_id": "7978616154188691602",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7978616154188691602",
+      "number_of_comparisons": "5+",
+      "comparison_link": "https://www.google.com/shopping/product/7978616154188691602/offers?q=black+hoodie&gl=us&hl=en&prds=eto:16742101773177543437_0,pid:15539349678521201204,rsk:PC_5594969080956928533&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECLka",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A16742101773177543437_0%2Cpid%3A15539349678521201204%2Crsk%3APC_5594969080956928533&gl=us&hl=en&offers=1&product_id=7978616154188691602&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECLka",
+      "source": "Hanes",
+      "price": "$17.00",
+      "extracted_price": 17.0,
+      "old_price": "$24.00",
+      "extracted_old_price": 24.0,
+      "rating": 4.5,
+      "reviews": 7575,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTD_wogINygpAt47BrtMvQwgOs3EEffP1bWfFRpAAluHHf9omNk_XIiLWdXnIexh6nIQQHdLjCftDfY2nrqf9pe6OD88DYbMbqoTz32vfeOCfxhFbGhHlE7&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Wed, Jan 17 \u00b7 Free 45-day returns"
+    },
+    {
+      "position": 30,
+      "title": "Gildan G185 Adult Unisex 8.0 oz Blend Hoodie 4XL Black",
+      "link": "https://www.jiffyshirts.com/gildan-G185.html?ac=Black",
+      "product_link": "https://www.google.com/shopping/product/651773627219492910?gl=us",
+      "product_id": "651773627219492910",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=651773627219492910",
+      "number_of_comparisons": "4",
+      "comparison_link": "https://www.google.com/shopping/product/651773627219492910/offers?q=black+hoodie&gl=us&hl=en&prds=eto:4265350571484569154_0,pid:8492697651534745161,rsk:PC_2771377331573704319&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECNAa",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A4265350571484569154_0%2Cpid%3A8492697651534745161%2Crsk%3APC_2771377331573704319&gl=us&hl=en&offers=1&product_id=651773627219492910&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECNAa",
+      "source": "JiffyShirts.com",
+      "price": "$13.12",
+      "extracted_price": 13.12,
+      "rating": 4.7,
+      "reviews": 6572,
+      "extensions": [
+        "$7.07 below typical",
+        "LOW PRICE"
+      ],
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRxZVd1FFST1dR_gh04629cSVSb9gOZIYyHCccUJw8IaJ41TnmbsEmW1jx5mv6rYZUulqmCDOVnSFqtd6Hu5oc-Qp7XucCMsPzo8XlnEkok21CK5ZlaFgmQ&usqp=CAE",
+      "tag": "LOW PRICE",
+      "delivery": "Delivery by Wed, Jan 3 \u00b7 Free 100-day returns",
+      "store_rating": 4.9,
+      "store_reviews": 8800.0
+    },
+    {
+      "position": 31,
+      "title": "I.n.c. International Concepts Men's Changed Hoodie, Created for Macy's - Black ...",
+      "link": "https://www.macys.com/shop/product/i.n.c.-international-concepts-mens-changed-hoodie-created-for-macys?ID=13104406&pla_country=US&CAGPSPN=pla",
+      "product_link": "https://www.google.com/shopping/product/8892497649103356259?gl=us",
+      "product_id": "8892497649103356259",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8892497649103356259",
+      "number_of_comparisons": "2",
+      "comparison_link": "https://www.google.com/shopping/product/8892497649103356259/offers?q=black+hoodie&gl=us&hl=en&prds=eto:6666790222579324142_0,pid:13617781079282671841,rsk:PC_6900912887057210467&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECOMa",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A6666790222579324142_0%2Cpid%3A13617781079282671841%2Crsk%3APC_6900912887057210467&gl=us&hl=en&offers=1&product_id=8892497649103356259&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECOMa",
+      "source": "Macy's",
+      "price": "$23.70",
+      "extracted_price": 23.7,
+      "old_price": "$39.50",
+      "extracted_old_price": 39.5,
+      "rating": 4.2,
+      "reviews": 26,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS6kLT5szAoDBIJwynNPZF4z018xoy7-n_Lovayxfs-vXRpRxw_p-fFP6Jg2Z142cOnWYEP9RV5T-_6n6VSYMyqJPUutthI2nMduxDqvP0N&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Tue, Jan 9 \u00b7 Free 30-day returns",
+      "store_rating": 4.4,
+      "store_reviews": 223
+    },
+    {
+      "position": 32,
+      "title": "Nike Men's Therma-FIT Pullover Hoodie, Xxxl, Black",
+      "link": "https://www.nike.com/t/therma-fit-mens-pullover-fitness-hoodie-X9fVm2/DQ4834-010?nikemt=true&srsltid=AfmBOoqWPQmS7cBaq8QYKbGfH4J4c1kvC9_BJ3zExiqbOpOXv96_wfwaxlk",
+      "product_link": "https://www.google.com/shopping/product/13098765073217971148?gl=us",
+      "product_id": "13098765073217971148",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13098765073217971148",
+      "number_of_comparisons": "4",
+      "comparison_link": "https://www.google.com/shopping/product/13098765073217971148/offers?q=black+hoodie&gl=us&hl=en&prds=eto:10872679551406391277_0,pid:4306681094702711892,rsk:PC_5275571751725936863&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECPca",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A10872679551406391277_0%2Cpid%3A4306681094702711892%2Crsk%3APC_5275571751725936863&gl=us&hl=en&offers=1&product_id=13098765073217971148&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECPca",
+      "source": "Nike",
+      "price": "$65.00",
+      "extracted_price": 65.0,
+      "rating": 4.3,
+      "reviews": 41,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTivTszdwULCiEudhK7phQGQ539q5UBRpOiBVxHaziPr-vLLmnNwUyL3AOQUFW3xBc28B1UzeEQ0GbuKW4KRvzLgHqtJjlhadT7vRMqLte3iYwmsgUop0wI&usqp=CAE",
+      "delivery": "Delivery by Wed, Jan 10 \u00b7 Free 60-day returns",
+      "store_rating": 4.5,
+      "store_reviews": 1100.0
+    },
+    {
+      "position": 33,
+      "title": "Standard Cloth Free Throw Hoodie Sweatshirt in Black, Men's at Urban Outfitters",
+      "link": "https://www.urbanoutfitters.com/shop/standard-cloth-free-throw-hoodie-sweatshirt?color=001&size=M&type=STANDARD",
+      "product_link": "https://www.google.com/shopping/product/6197170847514548724?gl=us",
+      "product_id": "6197170847514548724",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6197170847514548724",
+      "source": "Urban Outfitters",
+      "price": "$59.00",
+      "extracted_price": 59.0,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRFtFrPlrezY4ZIB5AmCXLalXHaBsLQiT3bckwnqWTWERF5UPeClTWI6-7QVKF6tFja6opNy5Sr27tQQFtIQ3j5Un6kZvcaw2POWNtmM_WAvrFEJmHyQPn8&usqp=CAE",
+      "delivery": "Delivery by Mon, Jan 15",
+      "store_rating": 4.3,
+      "store_reviews": 33
+    },
+    {
+      "position": 34,
+      "title": "Nike Mens JDI Fleece Hoodie - Black/White Size S",
+      "link": "https://www.footlocker.com/product/~/18347023.html?source=shoppingads&locale=en-US&SID=6936&inceptor=1&cm_mmc=paid%20search-_-google-_-g-_-PLA-_-DPA-_--_-P-_-Prospecting-_--_-na-_--_-na-_-PLA-_-na-_--_--_-",
+      "product_link": "https://www.google.com/shopping/product/13951521929924437641?gl=us",
+      "product_id": "13951521929924437641",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13951521929924437641",
+      "source": "Foot Locker",
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "old_price": "$70.00",
+      "extracted_old_price": 70.0,
+      "rating": 4.5,
+      "reviews": 54,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRZXbvQ0FaWygWi_BRVrrzBM9VlN50rp0EKGcRzRIro486u4v5VUt1dd_ilxZVkJ0vFvxdqiiakeuYDlohzUOCgnJYJ1TrtbZNvVc6_kJnn-tkqmW_TkhuZ2Q&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Free delivery",
+      "store_rating": 4.4
+    },
+    {
+      "position": 35,
+      "title": "AllSaints Underground Logo Hoodie Sweatshirt in Jet Black at Nordstrom, Size Medium",
+      "link": "https://www.nordstrom.com/s/7154514?color=JET+BLACK&size=medium&country=US&currency=USD&utm_source=google&utm_medium=organic&utm_campaign=seo_shopping&utm_channel=low_nd_seo_shopping&srsltid=AfmBOopKb5Gron4K-6UIUWoMz1iCNYNOR5vUHNft8ZSSWOr6ucF4DRMEzvQ",
+      "product_link": "https://www.google.com/shopping/product/17201298302776502057?gl=us",
+      "product_id": "17201298302776502057",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17201298302776502057",
+      "source": "Nordstrom",
+      "price": "$219.00",
+      "extracted_price": 219.0,
+      "rating": 4.8,
+      "reviews": 7,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRcQQVFngFjJYl6WB8KeEyNo7punUWh5fAiVDlhNyepZg4htyt1r3tP5L1sgBcUylOFi3nq83wtK5B4cJEZm_W8lvIlrw7PiKr2OlljQ-Gb&usqp=CAE",
+      "delivery": "Free delivery by Jan 8 & Free lifetime returns",
+      "store_rating": 4.6,
+      "store_reviews": 172
+    },
+    {
+      "position": 36,
+      "title": "Grunt Style Patch Pullover Hoodie - Black",
+      "link": "https://www.gruntstyle.com/products/grunt-style-patch-hoodie-black?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+      "product_link": "https://www.google.com/shopping/product/15894711357392660675?gl=us",
+      "product_id": "15894711357392660675",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15894711357392660675",
+      "number_of_comparisons": "5+",
+      "comparison_link": "https://www.google.com/shopping/product/15894711357392660675/offers?q=black+hoodie&gl=us&hl=en&prds=eto:18058578577018756100_0,pid:6373249388979033685,rsk:PC_4060780607943000493&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECMMb",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A18058578577018756100_0%2Cpid%3A6373249388979033685%2Crsk%3APC_4060780607943000493&gl=us&hl=en&offers=1&product_id=15894711357392660675&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECMMb",
+      "source": "Gruntstyle",
+      "price": "$47.99",
+      "extracted_price": 47.99,
+      "rating": 4.6,
+      "reviews": 715,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRUwR978U_5VUzbjJKnv2ql9_yekkzDKLBFHXb_iz6rhn_CvMJ6JuzDMFnhBjt8MKcQ3Lv0KLUXSAmffXUzN0u30bujPSYTVZyWho9Ux00s0we2_iHj3Jla4Q&usqp=CAE",
+      "delivery": "Delivery by Thu, Jan 11",
+      "store_rating": 4.7,
+      "store_reviews": 7500.0
+    },
+    {
+      "position": 37,
+      "title": "Prettylittlething Women's Plus Black Basic Hoodie - Size 14",
+      "link": "https://www.prettylittlething.us/plus-black-basic-hoodie.html?srsltid=AfmBOopRgm_03dRQx8dPTNh9CgSa7JkViLO-um9fTIIiJn9A85wCWoUKaWo",
+      "product_link": "https://www.google.com/shopping/product/6313765619733351905?gl=us",
+      "product_id": "6313765619733351905",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6313765619733351905",
+      "source": "PrettyLittleThing",
+      "price": "$8.00",
+      "extracted_price": 8.0,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTN5X0NuzFrzJIWAnwcZVbr3MlZYqB2H_PA6hiTA4fUe3pYpEafqqPj2jIg-91YlvdYVvxyTfAAyv00EVvmiD8mLpn_3NUY-9_jxywGq0WO&usqp=CAE",
+      "delivery": "Delivery by Sat, Jan 6"
+    },
+    {
+      "position": 38,
+      "title": "Levi's Men's Relaxed Fit Zip-Up Sweatshirt - Black S",
+      "link": "https://www.dillards.com/p/levis-long-sleeve-zip-front-fleece-hooded-jacket/516949374?sku=7757655&googleShop=Y&srsltid=AfmBOoqxat7exJh2efRUvR1sEEZz4frxdwNbGw3d_YiEFaO-9ngh1k1t2Gw",
+      "product_link": "https://www.google.com/shopping/product/1855771963401635984?gl=us",
+      "product_id": "1855771963401635984",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1855771963401635984",
+      "number_of_comparisons": "5+",
+      "comparison_link": "https://www.google.com/shopping/product/1855771963401635984/offers?q=black+hoodie&gl=us&hl=en&prds=eto:36862464696088950_0,pid:4497058848289793061,rsk:PC_16084472672796797069&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECOYb",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A36862464696088950_0%2Cpid%3A4497058848289793061%2Crsk%3APC_16084472672796797069&gl=us&hl=en&offers=1&product_id=1855771963401635984&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECOYb",
+      "source": "Dillard's",
+      "price": "$39.99",
+      "extracted_price": 39.99,
+      "old_price": "$54.99",
+      "extracted_old_price": 54.99,
+      "rating": 4.9,
+      "reviews": 12,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS0KEd7J_4nxixiH1te35hd0atmhEcTNKRQS1DB1JbCOzukJnPnNIZkywrBp-GSLT-yLIG-p5zgp4KmsIAsW2sAzIiDAhD7qi4k77UL2OjpQGIDCVU6TNAd&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Thu, Jan 4",
+      "store_rating": 4.6,
+      "store_reviews": 112
+    },
+    {
+      "position": 39,
+      "title": "Timberland | Men's Core Tree Logo Pullover Hoodie, Black / XL",
+      "link": "https://www.timberland.com/en-us/p/men/clothing-10049/timberland-tree-logo-hoodie-TB0A2BJHP56?utm_medium=GoogleShopping&utm_source=Google&utm_campaign=DPA&utm_content=DPACarousel",
+      "product_link": "https://www.google.com/shopping/product/16804621737656224526?gl=us",
+      "product_id": "16804621737656224526",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16804621737656224526",
+      "number_of_comparisons": "10+",
+      "comparison_link": "https://www.google.com/shopping/product/16804621737656224526/offers?q=black+hoodie&gl=us&hl=en&prds=eto:9106667927126461329_0,pid:8231884476601195326,rsk:PC_2511230032281454564&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECPob",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A9106667927126461329_0%2Cpid%3A8231884476601195326%2Crsk%3APC_2511230032281454564&gl=us&hl=en&offers=1&product_id=16804621737656224526&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECPob",
+      "source": "Timberland",
+      "price": "$59.99",
+      "extracted_price": 59.99,
+      "old_price": "$65.00",
+      "extracted_old_price": 65.0,
+      "rating": 4.6,
+      "reviews": 63,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDZn-LbjfJqx90lZpOFZaOXREm3qGCcQVyhqr8J9evDBLIqxlvMvg6lq0ivCcqlwlQXZQl05wR7H830inoaXbCReFvflauVCSsWQAUggUP&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Tue, Jan 9"
+    },
+    {
+      "position": 40,
+      "title": "JAXXON Inspiration Program Hoodie - Black",
+      "link": "https://club.jaxxon.com/products/inspiration-program-hoodie-black?Size=S&Color=Black&srsltid=AfmBOoqzh4aGwjzl8ZC8bEU7q3unMPYgY3qJh4BuoaAt-tAIeOlxtzugiFc",
+      "product_link": "https://www.google.com/shopping/product/17128775829322666533?gl=us",
+      "product_id": "17128775829322666533",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17128775829322666533",
+      "source": "Jaxxon",
+      "price": "$109.00",
+      "extracted_price": 109.0,
+      "rating": 5.0,
+      "reviews": 5,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQWSLuWxE7anpYtckGmbM9N-rReo0bPopPTe0UggmM-arhTLsuOZk8Ppw8lphL5rOeGO8ZrNByWuuJK2qPYHIegtcSSi4Uwf8Eh2nudXMpLnrrq7d3m5yvVYQ&usqp=CAE",
+      "delivery": "Free delivery by Mon, Jan 8",
+      "store_rating": 4.5,
+      "store_reviews": 2100.0
+    },
+    {
+      "position": 41,
+      "title": "Men's Vintage Soft Mini Arch Logo Hoodie by Gap True Black Size S",
+      "link": "https://www.gap.com/browse/product.do?pid=823343032&vid=1&tid=gpns000044",
+      "product_link": "https://www.google.com/shopping/product/535167667105500524?gl=us",
+      "product_id": "535167667105500524",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=535167667105500524",
+      "number_of_comparisons": "2",
+      "comparison_link": "https://www.google.com/shopping/product/535167667105500524/offers?q=black+hoodie&gl=us&hl=en&prds=eto:10197698763805715243_0,pid:12972318372583340075,rsk:PC_15160723141116327290&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECKEc",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A10197698763805715243_0%2Cpid%3A12972318372583340075%2Crsk%3APC_15160723141116327290&gl=us&hl=en&offers=1&product_id=535167667105500524&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECKEc",
+      "source": "Gap",
+      "price": "$29.00",
+      "extracted_price": 29.0,
+      "old_price": "$59.95",
+      "extracted_old_price": 59.95,
+      "rating": 4.4,
+      "reviews": 22,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSH8-27b3VYHTFj8IJ9Jq5WyNlY7rKm6bI1SsxlNuyFAWmfcg_qConTdQa4xF0lYiztZH1R6eORY4IeaEWIbxfY9mu-HtMyb_xQwySv0RdZ7TqkM0bcwr1H&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Mon, Jan 8 \u00b7 Free 30-day returns",
+      "store_rating": 4.5
+    },
+    {
+      "position": 42,
+      "title": "Supply and Demand Men's Tristan Pullover Hoodie in Black/Black Size Large ...",
+      "link": "https://www.finishline.com/store/browse/productDetail.jsp?productId=prod2864187&brand_name=Supply%20and%20Demand&styleId=SUM16679&colorId=007",
+      "product_link": "https://www.google.com/shopping/product/4077928871995502839?gl=us",
+      "product_id": "4077928871995502839",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4077928871995502839",
+      "source": "Finish Line",
+      "price": "$40.00",
+      "extracted_price": 40.0,
+      "extensions": [
+        "$15.00 below typical",
+        "LOW PRICE"
+      ],
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRjLn5rlQE2U3bT4gOBuBFPNQoOlkgrq8bc6X7ws-Wxn43EmT5VYb9yZxVSZs7BifwYs23k01JdECVyX-LKhPHgGytuw7XqegxEbp8XheM9QKCJDDj3hWSY&usqp=CAE",
+      "tag": "LOW PRICE",
+      "delivery": "Delivery by Thu, Jan 4 \u00b7 Free 45-day returns"
+    },
+    {
+      "position": 43,
+      "title": "Zaitun Mens Hooded Sweatshirt Long Sleeve Solid Knitted Hoodie Pullover Sweater",
+      "link": "https://www.amazon.com/Zaitun-Sweatshirt-Knitted-Pullover-Sweater/dp/B08VWZ2P42?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AZQMAVIIO4OA4",
+      "product_link": "https://www.google.com/shopping/product/6546746706002977088?gl=us",
+      "product_id": "6546746706002977088",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6546746706002977088",
+      "source": "Amazon.com - Seller",
+      "price": "$32.99",
+      "extracted_price": 32.99,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPgktILxzwCKK7EBa0yJaXuGphOqKxtCr0VXAyGvcpTf_Db2uqoWi1M9NOLY0ETXs-sSlZWbmKx71O9E8u740yy5bnfv8rjhz8SZEQt_VdxaM0wdlfIaWQHg&usqp=CAE",
+      "delivery": "$7.64 delivery"
+    },
+    {
+      "position": 44,
+      "title": "Men's Hooded Sweatshirt - Goodfellow & Co Black S",
+      "link": "https://www.target.com/p/men-39-s-hooded-sweatshirt-goodfellow-38-co-8482-black-s/-/A-88259235?ref=tgt_adv_xsf&AFID=google&CPNG=Men&adgroup=43-15&lnm=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+      "product_link": "https://www.google.com/shopping/product/3461021554955314871?gl=us",
+      "product_id": "3461021554955314871",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3461021554955314871",
+      "number_of_comparisons": "4",
+      "comparison_link": "https://www.google.com/shopping/product/3461021554955314871/offers?q=black+hoodie&gl=us&hl=en&prds=eto:30903811981986449_0,pid:2598732601226699416,rsk:PC_5792641121083489191&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECNUc",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A30903811981986449_0%2Cpid%3A2598732601226699416%2Crsk%3APC_5792641121083489191&gl=us&hl=en&offers=1&product_id=3461021554955314871&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECNUc",
+      "source": "Target",
+      "price": "$23.00",
+      "extracted_price": 23.0,
+      "rating": 4.7,
+      "reviews": 81,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT7ZPFlZl1gIaW83MxaJqDvCvffJdsAfa5JhsipRK4OR3KUqAlQAcY2cnpJM156zVjdKSYNIBGeoGNyy-4LpHyYoodEECe_xeZPKD2PMC03fo1n2ukWAOKj&usqp=CAE",
+      "delivery": "Delivery by Wed, Jan 3 \u00b7 Free 365-day returns",
+      "store_rating": 4.6,
+      "store_reviews": 483
+    },
+    {
+      "position": 45,
+      "title": "boohoo Mens Oversized Raw Applique Hoodie - Black S",
+      "link": "https://us.boohoo.com/oversized-raw-applique-hoodie/BMM54403-105-30.html?srsltid=AfmBOoqQX_Kx-5C7yQmF6N3DMs1qjfJPML8ZoDkH_FtWSoV4VkJn0t9UiJM",
+      "product_link": "https://www.google.com/shopping/product/17509342966469441876?gl=us",
+      "product_id": "17509342966469441876",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17509342966469441876",
+      "source": "boohoo USA",
+      "price": "$28.00",
+      "extracted_price": 28.0,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQo35AY8Ytjtu_q4Xm9Qqj_qeg5VZJoijuKbm9GRIz9B_ixLyzPEtASSuggcevUi_g0nYaqCIXKR8WLRLha3yEQNpaW-XzYzNBaB4h3JIWAaKLvM7WGkqXHbw&usqp=CAE",
+      "delivery": "Delivery by Fri, Jan 12"
+    },
+    {
+      "position": 46,
+      "title": "Nike Men's Therma Pullover Fitness Hoodie",
+      "link": "https://www.hibbett.com/nike-mens-therma-fit-pullover-fitness-fleece-hoodie/48074264.html?utm_source=google&utm_medium=organic&utm_campaign=surfaces",
+      "product_link": "https://www.google.com/shopping/product/12341356087686924220?gl=us",
+      "product_id": "12341356087686924220",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12341356087686924220",
+      "number_of_comparisons": "5+",
+      "comparison_link": "https://www.google.com/shopping/product/12341356087686924220/offers?q=black+hoodie&gl=us&hl=en&prds=eto:8721369623884959408_0,pid:13985335309530844328,rsk:PC_5449438029765280550&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECPYc",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A8721369623884959408_0%2Cpid%3A13985335309530844328%2Crsk%3APC_5449438029765280550&gl=us&hl=en&offers=1&product_id=12341356087686924220&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECPYc",
+      "source": "Hibbett Sports",
+      "price": "$65.00",
+      "extracted_price": 65.0,
+      "rating": 4.4,
+      "reviews": 51,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS5VueA8ghW-x-pMgZnZdh-gpMcnDeIyZcBWeZPI47Oy6RH8agdmItX2RGoG6mVz-ePrd20rO9OAsKCu5fqfZVRFnlU1F67ujn68_Cx0OHyxgJ_Y9FttGvO&usqp=CAE",
+      "delivery": "Delivery by Thu, Jan 4 \u00b7 Free 60-day returns",
+      "store_rating": 4.4,
+      "store_reviews": 6500.0
+    },
+    {
+      "position": 47,
+      "title": "Gap Factory Women's Gap Logo Hoodie Black Faux Leather Size Xs",
+      "link": "https://www.gapfactory.com/browse/product.do?pid=870260561&vid=1&tid=gfns000002",
+      "product_link": "https://www.google.com/shopping/product/429602761106557607?gl=us",
+      "product_id": "429602761106557607",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=429602761106557607",
+      "source": "Gap Factory",
+      "price": "$41.99",
+      "extracted_price": 41.99,
+      "old_price": "$59.99",
+      "extracted_old_price": 59.99,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQK1NnXIvIfeTx0yJu-uI5V_g-EXi9JW89dJVr-hO0bMX4g88LmmUpGIvBcRMojXXwVcBi1mTXmwZ504hyfpxiH5jTsQxWn0YqOkWwkIElbDmSMYVxdcfBuZg&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Mon, Jan 8 \u00b7 Free 30-day returns",
+      "store_rating": 4.7
+    },
+    {
+      "position": 48,
+      "title": "Solid Oversized Hoodies for Women | Casual Comfy Hoodies Black / L",
+      "link": "https://www.perisgems.com/products/solid-oversized-hoodies-for-women-casual-comfy-hoodies?variant=45824918585620&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorJUedVHOMmlPn1PFDAfbn-mJ2MyufwQD1YWThOIxwvd62cp9kKFdo&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+      "product_link": "https://www.google.com/shopping/product/12416111473071021161?gl=us",
+      "product_id": "12416111473071021161",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12416111473071021161",
+      "source": "Peris Gems",
+      "price": "$23.00",
+      "extracted_price": 23.0,
+      "extensions": [
+        "Buy 1 Get 1 25% Off",
+        "SPECIAL OFFER"
+      ],
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSWvrtd9ca8Fxl7JphL-5RtevwbES1BFGAWfg03aaitwqqoDQ9jzSGEnM145nED-HWqn1XLLxehuIZrtVZ4RRNgWYgvmm_-g6RcjJsD9elGQSR_0CxB6rWx&usqp=CAE",
+      "tag": "SPECIAL OFFER",
+      "delivery": "Free delivery by Wed, Jan 10"
+    },
+    {
+      "position": 49,
+      "title": "Gildan Big Men's Hooded Sweatshirt, Size: XXL, Black",
+      "link": "https://www.boscovs.com/product/mens-gildan-heavy-blend-solid-fleece-pullover-hoodie/152655?utm_source=Google&utm_term=152655&utm_content=mens%20clothing%20%3E%20all%20mens%20clothing&utm_campaign=CSE&cid=CSE:Google&mrColor=BLACK&mrSize=XXL&utm_medium=freePLA&srsltid=AfmBOooGCipwxomqTPiRxq9jCRr_7Lr2OGhBXGS-S6AiFhiMyO9b3LQeKl8",
+      "product_link": "https://www.google.com/shopping/product/3555962452670945860?gl=us",
+      "product_id": "3555962452670945860",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3555962452670945860",
+      "number_of_comparisons": "10+",
+      "comparison_link": "https://www.google.com/shopping/product/3555962452670945860/offers?q=black+hoodie&gl=us&hl=en&prds=eto:3378435596025397851_0,pid:18341736002538305704,rsk:CID_3555962452670945860&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECLMd",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A3378435596025397851_0%2Cpid%3A18341736002538305704%2Crsk%3ACID_3555962452670945860&gl=us&hl=en&offers=1&product_id=3555962452670945860&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECLMd",
+      "source": "Boscov's",
+      "price": "$16.99",
+      "extracted_price": 16.99,
+      "old_price": "$30.00",
+      "extracted_old_price": 30.0,
+      "rating": 4.7,
+      "reviews": 64,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQe8PmoenYL9G0MsBCTug6yezOlNVotllKTG7WVfu5QB4q9_-xTbgbqZQFJqCkaPmT7zswYcB_ChhjwJP179cTT4RuvpXiwgiifKaQcf6NduFDTbMpdDU4-hg&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "$9.95 delivery",
+      "store_rating": 4.6,
+      "store_reviews": 5000
+    },
+    {
+      "position": 50,
+      "title": "Fear of God Essentials Pullover Chest Logo Hoodie Stretch Limo/Black",
+      "link": "https://stockx.com/fear-of-god-essentials-pullover-hoodie-fw22-stretch-limo-black?country=US&currencyCode=USD&size=L&srsltid=AfmBOopRs1vnmmpErL0HHL4UBKMMNlx_1hbv1TOWnU5Ed1SwECu8BPDWKds",
+      "product_link": "https://www.google.com/shopping/product/10209050591380370787?gl=us",
+      "product_id": "10209050591380370787",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10209050591380370787",
+      "source": "StockX",
+      "price": "$120.00",
+      "extracted_price": 120.0,
+      "rating": 4.2,
+      "reviews": 35,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSaxHrJmBOL_aALenBvNR8pneaYuDMwkoCMMIqH4YdK2FfJoVViAthjPWD_gJ6jO0ZcZFtyhvUeKZAFMSURx8bdHUhGMExh9H_AzwjTSbcLfDD_vPvk3p0_rg&usqp=CAE",
+      "delivery": "$21.35 delivery",
+      "store_rating": 4.1,
+      "store_reviews": 40300.0
+    },
+    {
+      "position": 51,
+      "title": "Member's Mark Men's Luxe Hoodie Black XXL",
+      "link": "https://www.samsclub.com/p/members-mark-mens-luxe-pullover-hoodie/P03019814",
+      "product_link": "https://www.google.com/shopping/product/4440527146177303361?gl=us",
+      "product_id": "4440527146177303361",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4440527146177303361",
+      "source": "Sam's Club",
+      "price": "$13.98",
+      "extracted_price": 13.98,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSKut53ug0sn2dlcWN-gKw7NK-Gz-l4F4ClpZRvCSjmfpb847CEWXa-1xXHEedrm46dLMBum-jJCR7qtyQ7VhMNRF2WuSZVuhgHcJLnq7g&usqp=CAE",
+      "delivery": "$7.18 delivery",
+      "store_rating": 4.4,
+      "store_reviews": 125
+    },
+    {
+      "position": 52,
+      "title": "Rsq Washed Hoodie - Black - Small",
+      "link": "https://www.tillys.com/product/rsq-mens-washed-hoodie-/480428100.html?utm_medium=organic&utm_source=google&utm_campaign=sag_free&utm_term=rsq-mens-washed-hoodie-",
+      "product_link": "https://www.google.com/shopping/product/15843302647224515327?gl=us",
+      "product_id": "15843302647224515327",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15843302647224515327",
+      "number_of_comparisons": "2",
+      "comparison_link": "https://www.google.com/shopping/product/15843302647224515327/offers?q=black+hoodie&gl=us&hl=en&prds=eto:3445973778486555816_0,pid:11383759158810772505,rsk:PC_2581246788569370744&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECOUd",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A3445973778486555816_0%2Cpid%3A11383759158810772505%2Crsk%3APC_2581246788569370744&gl=us&hl=en&offers=1&product_id=15843302647224515327&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECOUd",
+      "source": "Tillys",
+      "price": "$44.99",
+      "extracted_price": 44.99,
+      "rating": 5.0,
+      "reviews": 8,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSgRtJourw9hIUxqfcojy01_O7o7aTIKqvDB7AezNKkSedaGV-cE-4dAHLB40Fwz3bKUekFBA9Gru5OQ2cDAlsUCzgxsaiO_OUJHp1PhPMRz-Frm1JkLE3Z&usqp=CAE",
+      "delivery": "Delivery by Mon, Jan 15 \u00b7 Free 30-day returns",
+      "store_rating": 4.7,
+      "store_reviews": 1100.0
+    },
+    {
+      "position": 53,
+      "title": "Los Angeles Apparel | Heavy Fleece Hooded Pullover Sweatshirt in Black, Size Xs",
+      "link": "https://www.losangelesapparel.net/products/hf09?variant=802172731398&srsltid=AfmBOoondDlbM7eIGZTu7vkSizUv-KIGd1aUamcoy1l1h8aYZ55xJf2XsTk&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+      "product_link": "https://www.google.com/shopping/product/14382443391731983624?gl=us",
+      "product_id": "14382443391731983624",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14382443391731983624",
+      "number_of_comparisons": "4",
+      "comparison_link": "https://www.google.com/shopping/product/14382443391731983624/offers?q=black+hoodie&gl=us&hl=en&prds=eto:15815106195182410428_0,pid:14366637864242614328,rsk:PC_840364685219049182&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECPUd",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A15815106195182410428_0%2Cpid%3A14366637864242614328%2Crsk%3APC_840364685219049182&gl=us&hl=en&offers=1&product_id=14382443391731983624&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECPUd",
+      "source": "Los Angeles Apparel",
+      "price": "$68.00",
+      "extracted_price": 68.0,
+      "rating": 4.7,
+      "reviews": 365,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSli7nOw4pyc1dX9zZrWZDsqkXa1FedTvMnbd6OKzywTdLyraTgZe5pd4Fd7ysqOVS5TFVeWO79j9QRWYTw2maB_82l9YyOqwsEdwk2735fu0HBgFjFBz-u&usqp=CAE",
+      "delivery": "Delivery by Wed, Jan 10"
+    },
+    {
+      "position": 54,
+      "title": "The Group by Babaton Women's Harper Hoodie Sweatshirt in Black Size 2XS",
+      "link": "https://www.aritzia.com/us/en/product/harper-hoodie/107525017.html",
+      "product_link": "https://www.google.com/shopping/product/14645748937432220058?gl=us",
+      "product_id": "14645748937432220058",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14645748937432220058",
+      "source": "Aritzia",
+      "price": "$77.00",
+      "extracted_price": 77.0,
+      "extensions": [
+        "$33.00 below typical",
+        "LOW PRICE"
+      ],
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8bf24fWf4gAch41KC87wtDEBahkIr3lVn2l_tUB8yJpVWPv7nQAihu3tsvnoFhQtkmPBn5RBZBvQqlc0v_kt0npNDEUj5k4aBCwJEnwDC4pTlB6XV60yCgQ&usqp=CAE",
+      "tag": "LOW PRICE",
+      "delivery": "Delivery by Sun, Jan 7",
+      "store_rating": 4.8
+    },
+    {
+      "position": 55,
+      "title": "Men - Black Relaxed Fit Hoodie - Size: L - H&M",
+      "link": "https://www2.hm.com/en_us/productpage.1206127002.html?srsltid=AfmBOop9TER-Jb_HQpjn64ztFFMxH70t_tvEnvt31tK-ssNpwSxhT3QG2a0",
+      "product_link": "https://www.google.com/shopping/product/8027883415717881727?gl=us",
+      "product_id": "8027883415717881727",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8027883415717881727",
+      "source": "H&M",
+      "price": "$54.99",
+      "extracted_price": 54.99,
+      "rating": 4.7,
+      "reviews": 942,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ3lFhEA3HysLznqKB3yGMS_P9lYcBALOtgI351EoBorM0YtzpoDxS8P6dpTC7GiMUJcYdRKmCeanZ0WTzV5gQntc-Ah41e1CDawuvdYsYs4uEh1ijgEmD_&usqp=CAE",
+      "delivery": "Delivery by Mon, Jan 8",
+      "store_rating": 4.5,
+      "store_reviews": 102
+    },
+    {
+      "position": 56,
+      "title": "Standard Cloth Foundation Hoodie Sweatshirt in Black, Men's at Urban Outfitters",
+      "link": "https://www.urbanoutfitters.com/shop/standard-cloth-foundation-hoodie-sweatshirt2?color=001&size=XS&type=STANDARD",
+      "product_link": "https://www.google.com/shopping/product/3087354676142581625?gl=us",
+      "product_id": "3087354676142581625",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3087354676142581625",
+      "source": "Urban Outfitters",
+      "price": "$59.00",
+      "extracted_price": 59.0,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQh0KFHzFynrL1mXbzh_QrUIXztiolvC47soJCwMTY9nBnEioX1E6aCwLuuYp9UnhqY8ntnxqLCXPfa4EiddPmsbpKxiqgMiUEOoGGRNLNcBrInlk-2veOieQ&usqp=CAE",
+      "delivery": "Delivery by Mon, Jan 15",
+      "store_rating": 4.3,
+      "store_reviews": 33
+    },
+    {
+      "position": 57,
+      "title": "Carhartt Men's Midweight Hooded Pullover Sweatshirt, Size: Large, Black",
+      "link": "https://www.carhartt.com/product/K121-BLKLREG",
+      "product_link": "https://www.google.com/shopping/product/1196804501632834122?gl=us",
+      "product_id": "1196804501632834122",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1196804501632834122",
+      "number_of_comparisons": "10+",
+      "comparison_link": "https://www.google.com/shopping/product/1196804501632834122/offers?q=black+hoodie&gl=us&hl=en&prds=eto:3250238171441207335_0,pid:12058145218909978555,rsk:PC_8822979956852440013&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECMAe",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A3250238171441207335_0%2Cpid%3A12058145218909978555%2Crsk%3APC_8822979956852440013&gl=us&hl=en&offers=1&product_id=1196804501632834122&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECMAe",
+      "source": "Carhartt",
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "rating": 4.7,
+      "reviews": 2923,
+      "extensions": [
+        "$99 minimum order"
+      ],
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQHLlur6Z17SU-td_iGHkUb9DkdC3Dgnay69PQVucGAPo0pHZOn86761txeN_IaxNB2F7FluLibB4h_9R1WMaPRfV7RjQJ8dt4Gd7kE5D4&usqp=CAE",
+      "delivery": "Delivery by Thu, Jan 4"
+    },
+    {
+      "position": 58,
+      "title": "Bershka Basic Hoodie in Black",
+      "link": "https://www.asos.com/us/bershka/bershka-basic-hoodie-in-black/prd/203711071?affid=26521&freelisting=yes",
+      "product_link": "https://www.google.com/shopping/product/8998120930394317159?gl=us",
+      "product_id": "8998120930394317159",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8998120930394317159",
+      "source": "ASOS",
+      "price": "$25.50",
+      "extracted_price": 25.5,
+      "old_price": "$45.90",
+      "extracted_old_price": 45.9,
+      "rating": 3.8,
+      "reviews": 10,
+      "extensions": [
+        "15% discount for new customers over $50. Apply NEWBIE",
+        "SALE"
+      ],
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQvjysmSAaj-a65xjknPri8XFd4CpMQjocSRZW64VnVA__s89FZr8eJ2r3aoXI4zHMBIvswz9cKhty1nrCgPjARaQsIkgAJr9fDNqQtqzhiW-OiaLsy1uH-OQ&usqp=CAE",
+      "tag": "SALE",
+      "delivery": "Delivery by Fri, Jan 5 \u00b7 Free 28-day returns",
+      "store_rating": 4.2,
+      "store_reviews": 92
+    },
+    {
+      "position": 59,
+      "title": "Patagonia '73 Skyline Uprisal Hoody - Ink Black - Medium",
+      "link": "https://www.patagonia.com/product/73-skyline-uprisal-recycled-hoody/195699777217.html",
+      "product_link": "https://www.google.com/shopping/product/12954367231109080406?gl=us",
+      "product_id": "12954367231109080406",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12954367231109080406",
+      "number_of_comparisons": "10+",
+      "comparison_link": "https://www.google.com/shopping/product/12954367231109080406/offers?q=black+hoodie&gl=us&hl=en&prds=eto:2298923030171814183_0,pid:17438920188693585331,rsk:PC_12601875627510815923&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECOoe",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A2298923030171814183_0%2Cpid%3A17438920188693585331%2Crsk%3APC_12601875627510815923&gl=us&hl=en&offers=1&product_id=12954367231109080406&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECOoe",
+      "source": "Patagonia",
+      "price": "$89.00",
+      "extracted_price": 89.0,
+      "rating": 4.5,
+      "reviews": 13,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQnVdE6pfrVe2a21bKMnp9ahCSfT3U1b8LltNWeqOLKcdCcRyqIYwdJoEfYcAronlYdrUD6W46xWuL6woRaG3wJTn5XviCBs2twmwqfOv4&usqp=CAE",
+      "delivery": "Delivery by Mon, Jan 15",
+      "store_rating": 4.7,
+      "store_reviews": 59
+    },
+    {
+      "position": 60,
+      "title": "Amazon Essentials Men's Sherpa-Lined Pullover Hoodie Sweatshirt",
+      "link": "https://www.amazon.com/Amazon-Essentials-Standard-Pullover-Sweatshirt/dp/B07P8YZSXH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "product_link": "https://www.google.com/shopping/product/692677002588637622?gl=us",
+      "product_id": "692677002588637622",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=692677002588637622",
+      "source": "Amazon.com",
+      "price": "$32.30",
+      "extracted_price": 32.3,
+      "badge": "Top Quality Store",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTk-DAmRnlP26M_4Wg-iwBogtQJOT8nsXJbp8cFLz54WJ5bEbScJ3FWw-mhBbH_RF2xrAaloyxHrHH6twYzokJ8RksHCEtZ3Gm8QzT_KF0&usqp=CAE",
+      "delivery": "$7.69 delivery",
+      "store_rating": 4.6,
+      "store_reviews": 2300.0
+    }
+  ],
+  "related_shopping_results": [
+    {
+      "position": 1,
+      "title": "Mens Black Oversized Raw Hem Washed Loopback Graphic Hoodie",
+      "link": "https://www.boohooman.com/us/oversized-raw-hem-washed-loopback-graphic-hoodie/BMM65406-105-34.html?srsltid=AfmBOoppmrW-zh-5Vl0PSZM_OR2HnTO2VXOUA6xusGUzPkyHGKSTFu4gqFk",
+      "product_link": "https://www.google.com/shopping/product/12981196695039761490?gl=us",
+      "product_id": "12981196695039761490",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12981196695039761490",
+      "source": "boohooMAN US",
+      "price": "$22.00",
+      "extracted_price": 22.0,
+      "old_price": "$55.00",
+      "extracted_old_price": 55.0,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS7kg-z0YBDSYvErpnvqlWmw-VJ6drRLNvPrnHDBlV9qLFGL718KXs0ixXVWA8Yee2UoBN6vEfkK86ozTnlrSbOLBlV-s_DPMc-1m_YQqaM1y6i2raj41413Q&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "$9.99 delivery"
+    },
+    {
+      "position": 2,
+      "title": "Champion Men&s Reverse Weave Hoodie - Black",
+      "link": "https://www.dickssportinggoods.com/p/champion-mens-reverse-weave-hoodie-18chamclrvrswvphdapt/18chamclrvrswvphdapt?sku=19664592&srsltid=AfmBOoq02vIQLwyvMlyiB-GO9-dgpTwY6sbr8syFJgLei7RDct_L2nzuPms",
+      "product_link": "https://www.google.com/shopping/product/1280598892750969456?gl=us",
+      "product_id": "1280598892750969456",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1280598892750969456",
+      "source": "DICK'S Sporting Goods",
+      "price": "$29.98",
+      "extracted_price": 29.98,
+      "old_price": "$65.00",
+      "extracted_old_price": 65.0,
+      "rating": 4.5,
+      "reviews": 2424,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTIvfIBo3UsbEJnetmwyxA-8blDnC-tUWivy3wa-qdTPyxPXNpxcaTOjbH8aBxlWfda_zPgG0XaV7G49T2iPi9nt0H3oZouhnWGO_qq1l0k&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Free delivery by Thu, Jan 4"
+    },
+    {
+      "position": 3,
+      "title": "Gildan Men's Fleece Hooded Sweatshirt Black Small",
+      "link": "https://www.hobbylobby.com/Wearable-Art/T-Shirts-Clothing/Adult/Black-Adult-Hooded-Sweatshirt--Small/p/80976732?srsltid=AfmBOortBe_qXuZJa73wKIybGcYamo91AFsjdyaWdUvev9vxKC1nW5VyVnM",
+      "product_link": "https://www.google.com/shopping/product/9402244948762471426?gl=us",
+      "product_id": "9402244948762471426",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9402244948762471426",
+      "source": "Hobby Lobby",
+      "price": "$12.59",
+      "extracted_price": 12.59,
+      "old_price": "$17.99",
+      "extracted_old_price": 17.99,
+      "rating": 4.5,
+      "reviews": 63,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT_uiw0jGrC1nnMXiR3ePjmJl3k92ejH-zss2OOlEWqiIOcFytbMwZyd-KG3tmlTZDTur8nUVvi0Uzzh8Ls52lxPL1nJn9HEEJg-LVTqkCq&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Fri, Jan 5"
+    },
+    {
+      "position": 4,
+      "title": "The North Face Box NSE Pullover Hoodie Men's, TNF Black, L",
+      "link": "https://www.macys.com/shop/product/the-north-face-mens-box-nse-never-stop-exploring-pullover-hoodie?ID=16861143&pla_country=US&CAGPSPN=pla",
+      "product_link": "https://www.google.com/shopping/product/15801814481837015099?gl=us",
+      "product_id": "15801814481837015099",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15801814481837015099",
+      "source": "Macy's",
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "old_price": "$60.00",
+      "extracted_old_price": 60.0,
+      "rating": 4.7,
+      "reviews": 51,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQek16plZo1ZTEh-oG-OmxyZpidLcelAxruW64_tBzzVJiAMJZTeyli6S8wjDae0TbK_0OH3CLAfxvfQhpMjO4qZytQ7zdSA4YKw8e0u1iu&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Free delivery by Mon, Jan 15"
+    },
+    {
+      "position": 5,
+      "title": "Pacsun Men's Black Solid Hoodie - Size Small",
+      "link": "https://www.pacsun.com/pacsun/black-solid-hoodie-3955861.html?glCountry=US&glCurrency=USD&XCID=n:google_free_shopping",
+      "product_link": "https://www.google.com/shopping/product/9614996915233030357?gl=us",
+      "product_id": "9614996915233030357",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9614996915233030357",
+      "source": "PacSun",
+      "price": "$30.00",
+      "extracted_price": 30.0,
+      "old_price": "$49.95",
+      "extracted_old_price": 49.95,
+      "rating": 2.8,
+      "reviews": 79,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTo_QkaisUQGD4elctNi-hTpAGOlY-kEHk4LlCDh9Ydwv6cQ_i5tQfGpNIeSL5LLqDOT9H6X5qBpXtNxAtMYOJPaJOdICPytH75PlsQhjrdNsFekjXm1NED&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ]
+    },
+    {
+      "position": 6,
+      "title": "Gildan G185 Adult Unisex 8.0 oz Blend Hoodie 4XL Black",
+      "link": "https://www.jiffyshirts.com/gildan-G185.html?ac=Black",
+      "product_link": "https://www.google.com/shopping/product/651773627219492910?gl=us",
+      "product_id": "651773627219492910",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=651773627219492910",
+      "source": "JiffyShirts.com",
+      "price": "$13.12",
+      "extracted_price": 13.12,
+      "old_price": "\u00b7 Was $20.19",
+      "extracted_old_price": 20.19,
+      "rating": 4.7,
+      "reviews": 6572,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRxZVd1FFST1dR_gh04629cSVSb9gOZIYyHCccUJw8IaJ41TnmbsEmW1jx5mv6rYZUulqmCDOVnSFqtd6Hu5oc-Qp7XucCMsPzo8XlnEkok21CK5ZlaFgmQ&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Wed, Jan 3"
+    },
+    {
+      "position": 7,
+      "title": "Gildan Big Men's Hooded Sweatshirt, Size: XXL, Black",
+      "link": "https://www.hobbylobby.com/Wearable-Art/T-Shirts-Clothing/Adult/Black-Adult-Hooded-Sweatshirt--2XL/p/81048557?srsltid=AfmBOoq3KlrbwFFbCNa2AAX-TuicYk9dVWktw1ejdrHyfBkiNmrcsHERItI",
+      "product_link": "https://www.google.com/shopping/product/3555962452670945860?gl=us",
+      "product_id": "3555962452670945860",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3555962452670945860",
+      "source": "Hobby Lobby",
+      "price": "$13.99",
+      "extracted_price": 13.99,
+      "old_price": "$19.99",
+      "extracted_old_price": 19.99,
+      "rating": 4.7,
+      "reviews": 64,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQe8PmoenYL9G0MsBCTug6yezOlNVotllKTG7WVfu5QB4q9_-xTbgbqZQFJqCkaPmT7zswYcB_ChhjwJP179cTT4RuvpXiwgiifKaQcf6NduFDTbMpdDU4-hg&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Fri, Jan 5"
+    },
+    {
+      "position": 8,
+      "title": "Adidas Trefoil Hoodie - Black - L",
+      "link": "https://www.mercari.com/us/item/m13351904159/?srsltid=AfmBOorf1cjRX1lbdudVrs60U-c9m-RW_hDCROVFoR-7j4bSZ02j4EAdRoA&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+      "product_link": "https://www.google.com/shopping/product/17309365784297797631?gl=us",
+      "product_id": "17309365784297797631",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17309365784297797631",
+      "source": "Mercari",
+      "price": "$22.80",
+      "extracted_price": 22.8,
+      "old_price": "$30.00",
+      "extracted_old_price": 30.0,
+      "rating": 4.4,
+      "reviews": 34,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeAa8MIIGYjGU0ucahM3Lt_L2mJdEDm3Zdo-JT6EsoVnhiy2-VlfrH1tKnkHwzJ2JhGdSfShKSOD48yaBxfv8ElGK5Ty1cZQa3_1zSMG0vuu_D_f6mNTNObLI&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "$7.40 delivery"
+    },
+    {
+      "position": 9,
+      "title": "Timberland | Men's Core Tree Logo Pullover Hoodie, Black / XL",
+      "link": "https://www.dtlr.com/products/timberland-core-tree-logo-hoodie-tb0a2bjh-p56?variant=33023681921228&utm_source=google&utm_medium=cpc&utm_campaign=PLA&scid=scplp33023681921228&srsltid=AfmBOoo9A4PKtzHlAS7T4zIF2gXA4b0x6lWFjuBp3-HkTUQ_FaHOLpgFXSk",
+      "product_link": "https://www.google.com/shopping/product/16804621737656224526?gl=us",
+      "product_id": "16804621737656224526",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16804621737656224526",
+      "source": "DTLR",
+      "price": "$39.98",
+      "extracted_price": 39.98,
+      "old_price": "$60.00",
+      "extracted_old_price": 60.0,
+      "rating": 4.6,
+      "reviews": 63,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDZn-LbjfJqx90lZpOFZaOXREm3qGCcQVyhqr8J9evDBLIqxlvMvg6lq0ivCcqlwlQXZQl05wR7H830inoaXbCReFvflauVCSsWQAUggUP&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Thu, Jan 4"
+    },
+    {
+      "position": 10,
+      "title": "Hanes Men's EcoSmart Pullover Hood, Black, S",
+      "link": "https://www.cheapestees.com/products/hanes-50-50-hoodie-sweatshirt-p170?color=Black&srsltid=AfmBOoqcvsQXhRDAV8isPm3DVwQ25H7QuAdKUosIqQMMEHHGLpUr5tyu0Hk",
+      "product_link": "https://www.google.com/shopping/product/1953511398664344213?gl=us",
+      "product_id": "1953511398664344213",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1953511398664344213",
+      "source": "CheapesTees.com",
+      "price": "$13.88",
+      "extracted_price": 13.88,
+      "old_price": "$33.00",
+      "extracted_old_price": 33.0,
+      "rating": 4.5,
+      "reviews": 7575,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRw-BdJi0dIzyWwyjCxBl-nb3VwUbOvk0GjWzMOLMOznkHDKwp-HVWvZDCvcUBzf0iO01AY7eXDe0QkUeg0J8pqryUHPnLe1VotrpkVfroGutgQCloSgcNr&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Fri, Jan 5"
+    },
+    {
+      "position": 11,
+      "title": "Men's Nike Sportswear Club Fleece Pullover Hoodie in Black, Size: Medium | BV2654-010",
+      "link": "https://www.alcofashion.com/hoodies-sweatshirts/6954-6819-men-s-nike-sportswear-club-fleece-pullover-hoodie.html?srsltid=AfmBOoq9oMllHXfM2Fq4B40MaAoRbibotF2tNoFbsTRjVx-hlzFaHdEUtPM",
+      "product_link": "https://www.google.com/shopping/product/17654652174664306173?gl=us",
+      "product_id": "17654652174664306173",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17654652174664306173",
+      "source": "Alco Fashion",
+      "price": "$43.66",
+      "extracted_price": 43.66,
+      "old_price": "$55.98",
+      "extracted_old_price": 55.98,
+      "rating": 4.7,
+      "reviews": 7800,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRyp4pwbNaQ_aPEVdbtf5QGwx5TcLGDrym4_OSUkbjjIeyBnbjWJWAtj1QMhy_3rLes2DPEznQ8mdap7xWII4DwY84kHkAokSm-MUsQI5zNfmed1c1sSuFx&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "$9.50 delivery"
+    },
+    {
+      "position": 12,
+      "title": "and Now This Mens Oversized Pullover Hoodie, Black",
+      "link": "http://www.bhfo.com/products/and-now-this-mens-oversized-pullover-hoodie?variant=45190712295594&srsltid=AfmBOopPSycIvWJsjbnitZNN4AaZjoPbN-RN2BfutgzMF6vO8sNl2JF0Gxc",
+      "product_link": "https://www.google.com/shopping/product/15336910535496964685?gl=us",
+      "product_id": "15336910535496964685",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15336910535496964685",
+      "source": "BHFO",
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "old_price": "$45.00",
+      "extracted_old_price": 45.0,
+      "rating": 5.0,
+      "reviews": 4,
+      "extensions": [
+        "Apply NY2024",
+        "SALE"
+      ],
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR2lMeQNVNJ3z66vfDp9pSWHelSruftP7X3kM_0pM6s9KpxsPOU-HBrL-L6pFnHwZrC2GVwfwtm1eRl4qAXG96f7SIPiKxp-WMC8ED1_VsQ&usqp=CAE",
+      "tag": "SALE",
+      "delivery": "Delivery by Fri, Jan 12"
+    },
+    {
+      "position": 13,
+      "title": "and Now This Mens Ribbed Knit Pullover Hooded Sweater Black S",
+      "link": "https://www.sears.com/and-now-this-mens-ribbed-knit-pullover-hooded-sweater/p-A120901334?sid=ISxMP3xSOxGGxDTxSURF&srsltid=AfmBOoqlTBGrU7hNqWTXOB9bbyA8AgF-OGgqKnPKaVSvBowTuMxLoFBC35k",
+      "product_link": "https://www.google.com/shopping/product/1541952962965788999?gl=us",
+      "product_id": "1541952962965788999",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1541952962965788999",
+      "source": "Sears - BHFO",
+      "price": "$21.99",
+      "extracted_price": 21.99,
+      "old_price": "$49.50",
+      "extracted_old_price": 49.5,
+      "rating": 4.2,
+      "reviews": 10,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRAKHKHUbjLYINjWtA5eA3agT1xg4xVvus-VgYr_o7rWTYdef5iqym7J7I43jK-XQjDHz7lFljp0U3Xyxchkl6XPXlCraixWwDzMJE5mZMAu_xIzEv31olI2w&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "$9.95 delivery"
+    },
+    {
+      "position": 14,
+      "title": "100% Classic Pullover Hoody (Medium, Black)",
+      "link": "https://www.100percent.com/products/classic-pullover-hoodie-fleece-black?variant=39977161556055&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoprnNSE1h4pvuxOyPhCC9pJmfmLLCSOwV2a_3eRvG_LZStmbSr5O2c&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+      "product_link": "https://www.google.com/shopping/product/4788677024360604943?gl=us",
+      "product_id": "4788677024360604943",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4788677024360604943",
+      "source": "100percent.com",
+      "price": "$25.00",
+      "extracted_price": 25.0,
+      "old_price": "$50.00",
+      "extracted_old_price": 50.0,
+      "rating": 4.1,
+      "reviews": 10,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT8PwNRjZmJSlYWMpurReW_L2uSUNq9QYpt3ELl7uij62_wQ6Av0AsFqcVZ2RMgueKUZUqD4Ok5y8l5P28_3EJSI90Nq66MkQAuUDaZ-28&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Thu, Jan 11"
+    },
+    {
+      "position": 15,
+      "title": "Men's Heavy Waffle Hooded Sweatshirt - All in Motion Black S",
+      "link": "https://www.ebay.com/itm/176117317115?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOortZiw-UoPoS-JJ0gowKL0c6xfrkLoPf00x5ZhtlRPP7G0faciRhu0&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+      "product_link": "https://www.google.com/shopping/product/4008443030099964169?gl=us",
+      "product_id": "4008443030099964169",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4008443030099964169",
+      "source": "eBay - bullseye_deals",
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "old_price": "$38.00",
+      "extracted_old_price": 38.0,
+      "rating": 4.7,
+      "reviews": 16,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQVUgjoBifVCdxt9e3hqCHh7lWgyge8bNq4CJkxQ3x3WFRj2xOtKmzo0kufYJ5PdaByjcVyOKGhe1nKeNTKML-ZShrExqautVJzzPLD2eqArA4Pm7LK5N7a&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 16,
+      "title": "Inc International Concepts Men's Regular Fit Ribbed Velour Hoodie Black Size Medium",
+      "link": "https://poshmark.com/listing/Inc-mens-medium-black-hoodie-64fe98b8ff0484c8882f28a0?com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e#utm_source=gdm_unpaid",
+      "product_link": "https://www.google.com/shopping/product/16453621625728483708?gl=us",
+      "product_id": "16453621625728483708",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16453621625728483708",
+      "source": "Poshmark",
+      "price": "$6.00",
+      "extracted_price": 6.0,
+      "old_price": "$13.00",
+      "extracted_old_price": 13.0,
+      "rating": 4.3,
+      "reviews": 33,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcREgduuUWW8HBroFu3fQiBT8IVqiuOxoj796u-BC0UKKz96l4peq-GkPZDe4-M3jKGEleiUwHlHBK5zI0udrvp-ul4BPWfU4mA9ZKgZ8259baGyh8WHf9B9&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Fri, Jan 5"
+    },
+    {
+      "position": 17,
+      "title": "Gildan Basic Fleece Hoodie (Adult Sizes S - 3XL) - Black, L, Size: One Size",
+      "link": "https://www.cookieskids.com/Product.aspx?l=00160055006602160038&p=BOD01243&c=BLA&s=0000L&mr:trackingCode=B6E5D3B8-1DD9-E711-8107-0050569403C8&mr:referralID=NA",
+      "product_link": "https://www.google.com/shopping/product/4316633333581049125?gl=us",
+      "product_id": "4316633333581049125",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4316633333581049125",
+      "source": "Cookies Kids",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "old_price": "$32.99",
+      "extracted_old_price": 32.99,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRymWNOL9Goe-8cvVEgLA1Wb7dhG3UvYLydcJFf7f7iA-0BIF4xWxhZna_DMennzVnn3ZRelUSaxmao4ld5BETGDMmNBTaGxE-3TUetBABuLqBhsuruo9QW&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Sat, Jan 6"
+    },
+    {
+      "position": 18,
+      "title": "Adidas Miami Hoodie Black S Mens",
+      "link": "https://www.adidas.com/us/miami-hoodie/IU2965.html?dfw_tracker=24819-IU2965-0002",
+      "product_link": "https://www.google.com/shopping/product/10746674989452729315?gl=us",
+      "product_id": "10746674989452729315",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10746674989452729315",
+      "source": "adidas",
+      "price": "$39.00",
+      "extracted_price": 39.0,
+      "old_price": "$55.00",
+      "extracted_old_price": 55.0,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRvdkkem9W4nlV7dNu5LykXHofgwO1tEU_F7EVs3f52638RcgD-jma-5f6jGToDU9IdKiyaQIZThNJgZeo2VwTINEyxb-wpkI1aWfqU7LH5nZE5AQW5Z_Zv8A&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "Delivery by Wed, Jan 10"
+    },
+    {
+      "position": 19,
+      "title": "Staple Men Reverse Hoodie Black 2208H7060-BLK (Solestop.com) L",
+      "link": "https://swaggerlikeme.com/products/staple-stpl-reverse-hoodie-black?variant=42416006561990&currency=CAD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqKGq3CR2LOT7J-v7BHhwKRynCziD9Cud2kHwPbX5Wg6bBp9L43iSw&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+      "product_link": "https://www.google.com/shopping/product/5581877741121408579?gl=us",
+      "product_id": "5581877741121408579",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5581877741121408579",
+      "source": "Swaggerlikeme",
+      "price": "$61.82",
+      "extracted_price": 61.82,
+      "old_price": "$72.38",
+      "extracted_old_price": 72.38,
+      "extensions": [
+        "Discount shown at checkout",
+        "SALE"
+      ],
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT6KECeqpMOJsBUxfV_qTj-zWxTQQk6sbdE_C4rjmegM1yS9NnSXZgbQbErqD_oA0hw02UHTZ9EhqUWMBN3hDIXq4bRo9mMF9SAYMPU-4BdMuY9kbxXJvhI&usqp=CAE",
+      "tag": "SALE",
+      "delivery": "Free delivery by Mon, Jan 8"
+    },
+    {
+      "position": 20,
+      "title": "Victory Outfitters Ladies Fleece Heather Pullover Hoodie - Black - S",
+      "link": "https://www.murdochs.com/products/womens/clothing/sweatshirts/victory-outfitters-womens-3-button-hoodie/",
+      "product_link": "https://www.google.com/shopping/product/17577506218053622516?gl=us",
+      "product_id": "17577506218053622516",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17577506218053622516",
+      "source": "Murdoch's Ranch & Home Supply",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "old_price": "$34.99",
+      "extracted_old_price": 34.99,
+      "rating": 4.0,
+      "reviews": 35,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRxAaKZC3DEssWqhiOXzXkVvHqA-TBnspD_9uAZDAMe987o0S0KJjbBbX6Xt609g1bnvYUc0NroQex9wMBwKh1a3cKwIUsh1aWgV9KLE5Gskb_i4YFZ5WeB&usqp=CAE",
+      "tag": "SALE",
+      "extensions": [
+        "SALE"
+      ],
+      "delivery": "$15.00 delivery"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Filter by material",
+      "filters": [
+        {
+          "title": "Polyester",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQE4zY5TOciK0C_EJauTZxd3-rBYVZKnFfM4zGdddLXywYkagSHR_jy4cJDxRUXZeXs5LgzsaAGGeUsmyM_m64jPwFDPeFMf9DHiAXYPp4&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:965178%7C1634148&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIzSEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A965178%7C1634148"
+        },
+        {
+          "title": "Cotton Blend",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRC_bxysF9nM4Z2cI-2vv512lAuKyLbRkMqnikOgNbsbiMDh4mSF1fUHq6nqCev1U6AiKkHApOJTimYTWInB4OfESVd5_Nh1hgvxMrcnVhy&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:965178%7C1634130&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI0CEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A965178%7C1634130"
+        },
+        {
+          "title": "Fleece",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfC7zfN80Q7X9q9lq3YOhUuSEuF7zMWs1GxI54egnA07hvPav9WpXJxk9LPCM2XLM95o8tTYSMpb_z5HmEAmMYSB4hh8wAYYPTvdgcOizbGNE_OUONMI3w5w&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:965178%7C965188&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI0yEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A965178%7C965188"
+        },
+        {
+          "title": "Cotton",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT2lQA0RVEC8ocwb2H1VHDpJiZ26mp7ZN1VQqwIq6W4r2YQbraVI1jlgURBxxsOGkMlsoTGT_aaUiCmyDfeuYGMyZOBIgQxmyGj9BhubNstVr02HcZXbZ0v2A&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:965178%7C965397&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI1iEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A965178%7C965397"
+        },
+        {
+          "title": "Spandex",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGXaGXC52eOM23ryIL3sLMirSlDHndNT0MS9X1w5iQTSFG2jn54uBLMF8xjXFwkUdR4wizpvfxpIZojnkWoDLHyBXwaVQByecHhhjV5PM&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:965178%7C1634155&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI2SEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A965178%7C1634155"
+        }
+      ]
+    },
+    {
+      "title": "You might like",
+      "filters": [
+        {
+          "title": "Men's",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSEYSIMgoEaJJKVgAWnLOHI0SJZ0cPQKQveI8byOmRD1IS0ssdC0QW-Xuaex5IP6CscatKc3zbHYnDKv4z064kjpJP-uSqv4-UF8g_LkiUsVm7toiDUSfg3Xw&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:1020288%7C1020289&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI4CEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A1020288%7C1020289"
+        },
+        {
+          "title": "Women's",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRD12yNIwB6rT6n-4LB9Xy4eYpozJQbCGGcK8cnGz2ireBFUuyym_Q3G404SSQ4kvvjeAKgXA-1bvY25-eOhst-yQm_GHKEHlOB9K1eSE0&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:1020288%7C1020290&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI4yEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A1020288%7C1020290"
+        },
+        {
+          "title": "Pullover",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTbDcnNhqu9nZBSKJvUWRWMwLSiRIroxaWnDkh0Y5dzi8qsjiHubCTngvj3oiJ5IYAOo_8ukHWmhvyKtg71GFW_A6KxWYCXDqFMtwlmhKs&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:2154444%7C6803280&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI5iEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A2154444%7C6803280"
+        },
+        {
+          "title": "Zipper",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTURVhJ2HExkkV8RQlZaQlYDKmQdk5sybeo7hlNShLt28Pn3eL3qMAP5Udf_2aNhHPL88XEmBzvdWUMd85w9a94e0vb_xymdNWZ4ac91Pr3&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:2154444%7C2154447&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI6SEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A2154444%7C2154447"
+        },
+        {
+          "title": "Oversize",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7mnZwflMnYk5_7M_rLAeutPJdogLqqN5pbi12McZ63t-8vy2VRQU70WQVT0SJZj54W8bRQE7C1yaY-83S46N9NZ-PNojY60yyRO1mFt3E&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6882371%7C6882475&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI7CEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6882371%7C6882475"
+        },
+        {
+          "title": "Athletic",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQJwa1ZsRQQ4V0wnxSn3YbLkKF3cnfAq817HsvgCPcfVLNsnMwC6BbsJf8IFtC0PdVbZYLW5ErmCue9wHodL3kLk1pG16Hwt1lCfDprHBQju_HGYFFjUmouXg&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6882371%7C6882563&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI7yEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6882371%7C6882563"
+        },
+        {
+          "title": "Waist",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQRQgpezx6h-ioqOoxOEZPVzZXiw_2K71XsLWWJOAXUYvNUivBxe4r0pJ87N7AB6wDYLSU8JiWnAuq67_16EYqUoIWk7Uwrwo-bw-yOPBCI&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6803022%7C6802819&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI8iEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6803022%7C6802819"
+        },
+        {
+          "title": "Relaxed",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSrbB0dGyXvKiWfSvc0F1-pVj74fNu-V1TW9eapI3USJBdjGyDXPE57JN_s5TUTCqFZRXyPdeEvsKKTgsHsLzfuaPqKAWQvdBqXHOYV76E&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6882371%7C6882414&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI9SEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6882371%7C6882414"
+        },
+        {
+          "title": "Fall",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRoJLMe2Pu5HZ5Sgz_CsuPQwxX6eAVcvFAhHVpZqa8HJ-xSo1xdz1CMhGTinW8njiqqTCL_qIK9_8ZGd6IBDATXZE4eOl_Nn-5gm-8iKPfCNA56jN11giSVyg&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6802922%7C6802923&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI-CEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6802922%7C6802923"
+        },
+        {
+          "title": "Hip",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8DdnT1IT23TTS0bSMrdd6K2te5f87QUH1t4xt3msai5TSLq3m2mUhCK_hx6QGKjhaQ0TRY2Jj85Esv_md32Ym9s2usVanqK1HOAf-aA&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6803022%7C6803227&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI-yEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6803022%7C6803227"
+        },
+        {
+          "title": "Nike",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRXsO7u8G9fbKkpEleZuvnHhOiCvS0KiipAvZrrjHxWN3PAhtnYdknvHXuh_LWSvnjsTj7iQFza027G-1FG4yKuEnaX-TYk3wqEkL-dOA&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:997763%7C1011839&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkI_iEoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A997763%7C1011839"
+        },
+        {
+          "title": "Spring",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSUbrukyg0K9dJNSMgAE8PBanRGGPqNM_5-kYOx7du5Rots3e5x6Y95JbDBJ1FJwZdfRxA3vQKjroSlwMuBp3YkxIKvl7Ee2kXpOwBxsfQ&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6802922%7C6803483&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIgSIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6802922%7C6803483"
+        },
+        {
+          "title": "High Neck",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSghlrZdN3DqSzxsUgyNxmEkPfKRCdFiYkAqUMgM469rMAM1NiN6wAFpQ7a4uVNBcrPbTQnLP7l6qKgD9wKLk9E3ohcma_QO_RvfV9Q4jkQ-31n9t3_zh3ZPg&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:2613451%7C2753533&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIhCIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A2613451%7C2753533"
+        },
+        {
+          "title": "Print",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRJSiGjALxE824irTej7PcHq3wEzC0eLxSZY8i3VXIOU8rYcX9Mf1GK2rOgXRusimcKfnt7ddf_MPEVaON9a95_Imk45Itoi6IguGlTzfec&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6844100%7C6844280&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIhyIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6844100%7C6844280"
+        },
+        {
+          "title": "boohooMAN",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSdI5BBlNHJwA9USM2xaK17QMdOdd1s7CWAEnstc5RtOmIo3AXzvIGUufGIhzAYRCLYsLMSCkXHZG8N9OtJsO_VDtKw8FTd8NLm7f17WuB8-uxnipkTFyYr&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:997763%7C2879953&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIiiIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A997763%7C2879953"
+        },
+        {
+          "title": "Round Neck",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSOpUhsvQ9A-ZHVKNACsDcv4A6IJy68de0jW7VTiK0B53S-7WjC0fLflvly2RAJVoNO43aiWGZCseSU6jNE6G8tWRZ8UAxrxa-Fq1zgTes&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:2613451%7C2613453&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIjSIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A2613451%7C2613453"
+        },
+        {
+          "title": "Carhartt",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRrCdvQdufO-4wKGB1CdZQHezLNa4W4BImcKdhR23BiRAxXWwsCqov3AY6m2ewZsas8W-kjHSO8et4BNi6LCudM73Kp_iVCB_Ug2tzhlkA&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:997763%7C1012573&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIkCIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A997763%7C1012573"
+        },
+        {
+          "title": "Slim",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQHs6nCTYyb9lepN4GAjtxafabAa-0MNvZGzEhhc0g1ESJxGq-Fk2XtGQfCkeICA9RfTBtDQnx7qUk_CfX9fWzIQ3gwoWTsHwIWUTBpcLA&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6882371%7C6882526&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIkyIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6882371%7C6882526"
+        },
+        {
+          "title": "PrettyLittleThing",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGpmTYCQyChccEFBfbG9tjf9azyfB-40Ogr-QXzqzKlSx0XysiXUbqHWl0DoJmkR3kvBz5yl_vWA9xmaJM97goksYhgxlILz8uwVV-46c&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:997763%7C1722047&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIliIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A997763%7C1722047"
+        },
+        {
+          "title": "Slit",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR5RefhMeAW_hJGqaacRdsxRqT4EFY7B0vcnr3rVsPCgdoAtx6sAUSLFkzW3xps2vopimSq8DXRG9VpQajvNBVAigqIpA2A7fW1XBfOF4OBV6NKeEw1nbfFkg&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6821102%7C6820546&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkImSIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6821102%7C6820546"
+        },
+        {
+          "title": "Running",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIdyw1OJHHqjj5uDsds8jjcEHuszV_9VFoObsrpVqWJpc2WCY5lDLoeX3yEeeFrOl-gjVa0ETAcETE0rpX3AszARRfzSY8Lqw9HO7UDXc&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:2726037%7C2726042&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkInCIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A2726037%7C2726042"
+        },
+        {
+          "title": "Embroidery",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ5C34EnkB_w9JJ5NwOnQFEIloXERhqrs1NqySJBF0-0cv2rxglqisQwbh3C13rTmPnxVpN-p-rzaD3hvnOcCgvqHqSsKnT8ABqtrj-r5BMBLQE8Nl8swxg&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6844100%7C6844101&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkInyIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6844100%7C6844101"
+        },
+        {
+          "title": "Applique",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQhuCfLjGrgbhA72B2PHnB_FO-Lg69hYnbarIktKCXQGhCBK68eiuyqsPQFIjPnifHXcD2vhYDuemBGTnfTG-3lfCjG6XVm4FgX3nbeTa4&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6844100%7C6844279&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIoiIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6844100%7C6844279"
+        },
+        {
+          "title": "Golf",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpW6oRBcbVDkPpmLCd3sj015oSDvjQCYFJ8wCc4yaT7FENc5zUGwi7vs4EQ2aemBm790O09SyVKy-F1lA0Lct7zxOdxjtk5I61RArJzZGz29dyIvI6HFiM3g&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:2726037%7C2726038&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIpSIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A2726037%7C2726038"
+        },
+        {
+          "title": "Flap",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTT7EkXxA8NbBohCK48cXGF4-L9vddGhnMttfUSPsRtJJlb-TYHFpYvjoXJ3G3qcHFHRqaWxMn0T0Tf1ybHAYa2OIRF706n9PUunAUN5EUTDTcVNU0HvozcFw&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:6821102%7C6814034&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIqCIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A6821102%7C6814034"
+        },
+        {
+          "title": "V-neck",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9Xi1TcV2XvCrHPBr9lbA4G45t-0YgvSVbmkLFBgfCN32560-0ogrLfXrQT9epR51Bl72qexipMoQIAMMLZWAqlPVIqLY1df16p5J1xoGHXWOGLem3-grPXQ&usqp=CAE",
+          "link": "https://www.google.com/search?sca_esv=594742070&gl=us&hl=en&tbm=shop&q=black+hoodie&tbs=mr:1,pdtr0:2613451%7C2613455&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQwQkIqyIoAA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&tbs=mr%3A1%2Cpdtr0%3A2613451%7C2613455"
+        }
+      ]
+    }
+  ],
+  "featured_shopping_results": [
+    {
+      "position": 1,
+      "title": "Men - Black Loose Fit Hoodie - Size: XL - H&M",
+      "link": "https://www2.hm.com/en_us/productpage.0970819001.html?srsltid=AfmBOooDADaRy0X8yKTojuUrYWTQfJm3BcuZRmbBtKLCCLuHuRVQLWwae1U",
+      "product_link": "https://www.google.com/shopping/product/3595488535130117371?gl=us",
+      "product_id": "3595488535130117371",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3595488535130117371",
+      "source": "H&M",
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "rating": 4.7,
+      "reviews": 26698,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRrfoHDWR4hUxncim60LsrpmZ2JDMikkw8v4oC67GRGYz83f4DfDPE_IQR0O_0mQ9xFQ6y2-Z1Z065hYCYIk8raVNDzoEKWfAt23MHolrluhzSvW2ul11ULcQ&usqp=CAE",
+      "delivery": "Delivery by Mon, Jan 8",
+      "store_rating": 4.5,
+      "store_reviews": 102,
+      "remark": "Comfortable"
+    },
+    {
+      "position": 2,
+      "title": "Ladies - Black Hoodie - Size: XL - H&M",
+      "link": "https://www2.hm.com/en_us/productpage.0456163060.html?srsltid=AfmBOoqNaZoK4JWQSvS36pj340ZVO07HRvYC5Co0Oms00jhPqXwuhz1H15o",
+      "product_link": "https://www.google.com/shopping/product/2941927050099560536?gl=us",
+      "product_id": "2941927050099560536",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2941927050099560536",
+      "source": "H&M",
+      "price": "$20.99",
+      "extracted_price": 20.99,
+      "rating": 4.6,
+      "reviews": 9641,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTfUuJ90T9XCUS6J26wm8RBB5LvVimmG_xkZhGrBOhE83m4VkEPgE9XbKmvLfNop72f6woNcSgPJTBbPR_ZUMC-bAeM9PQYb-dkSGn385Etc_dttHVn22tn_A&usqp=CAE",
+      "delivery": "Delivery by Mon, Jan 8",
+      "store_rating": 4.5,
+      "store_reviews": 102,
+      "remark": "Attractive"
+    },
+    {
+      "position": 3,
+      "title": "Champion Men's Powerblend Fleece Pullover Hoodie Black",
+      "link": "https://www.amazon.com/Champion-Powerblend-Pullover-Hoodie-XX-Large/dp/B01HIUTCUS?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+      "product_link": "https://www.google.com/shopping/product/2828105373375059154?gl=us",
+      "product_id": "2828105373375059154",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2828105373375059154",
+      "number_of_comparisons": "10+",
+      "comparison_link": "https://www.google.com/shopping/product/2828105373375059154/offers?q=black+hoodie&gl=us&hl=en&prds=eto:11840349051367249435_0,pid:10385654533017004945,rsk:PC_15955121797833976120&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECLMX",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A11840349051367249435_0%2Cpid%3A10385654533017004945%2Crsk%3APC_15955121797833976120&gl=us&hl=en&offers=1&product_id=2828105373375059154&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECLMX",
+      "source": "Amazon.com",
+      "price": "$30.00",
+      "extracted_price": 30.0,
+      "rating": 4.5,
+      "reviews": 2844,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBohh_EQYWujxMcQAUQNZoZ5YA7yI6i8ReJ-Z1vAnE1y_46LRdXDkjCiTE-u_MOAnyrYL3KWULANMIG4xIQJf-T9tjoxfDog_m9ZSnF5s&usqp=CAE",
+      "delivery": "$7.68 delivery",
+      "store_rating": 4.6,
+      "store_reviews": 2300.0,
+      "remark": "Well made"
+    },
+    {
+      "position": 4,
+      "title": "Carhartt Men's Midweight Hooded Pullover Sweatshirt, Size: Large, Black",
+      "link": "https://www.carhartt.com/product/K121-BLKLREG",
+      "product_link": "https://www.google.com/shopping/product/1196804501632834122?gl=us",
+      "product_id": "1196804501632834122",
+      "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1196804501632834122",
+      "number_of_comparisons": "10+",
+      "comparison_link": "https://www.google.com/shopping/product/1196804501632834122/offers?q=black+hoodie&gl=us&hl=en&prds=eto:3250238171441207335_0,pid:12058145218909978555,rsk:PC_8822979956852440013&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECMMX",
+      "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A3250238171441207335_0%2Cpid%3A12058145218909978555%2Crsk%3APC_8822979956852440013&gl=us&hl=en&offers=1&product_id=1196804501632834122&sa=X&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ3q4ECMMX",
+      "source": "Carhartt",
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "rating": 4.7,
+      "reviews": 2923,
+      "extensions": [
+        "$99 minimum order"
+      ],
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQHLlur6Z17SU-td_iGHkUb9DkdC3Dgnay69PQVucGAPo0pHZOn86761txeN_IaxNB2F7FluLibB4h_9R1WMaPRfV7RjQJ8dt4Gd7kE5D4&usqp=CAE",
+      "delivery": "Delivery by Thu, Jan 4",
+      "remark": "Resists shrinking"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=black+hoodie&sca_esv=594742070&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=zWWRZcOPDP28ptQPvYW1oA8&start=60&sa=N&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ8NMDCL8i",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=black+hoodie&sca_esv=594742070&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=zWWRZcOPDP28ptQPvYW1oA8&start=60&sa=N&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ8tMDCLMi",
+      "3": "https://www.google.com/search?q=black+hoodie&sca_esv=594742070&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=zWWRZcOPDP28ptQPvYW1oA8&start=120&sa=N&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ8tMDCLUi",
+      "4": "https://www.google.com/search?q=black+hoodie&sca_esv=594742070&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=zWWRZcOPDP28ptQPvYW1oA8&start=180&sa=N&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ8tMDCLci",
+      "5": "https://www.google.com/search?q=black+hoodie&sca_esv=594742070&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=zWWRZcOPDP28ptQPvYW1oA8&start=240&sa=N&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ8tMDCLki",
+      "6": "https://www.google.com/search?q=black+hoodie&sca_esv=594742070&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=zWWRZcOPDP28ptQPvYW1oA8&start=300&sa=N&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ8tMDCLsi",
+      "7": "https://www.google.com/search?q=black+hoodie&sca_esv=594742070&gl=us&hl=en&tbs=vw:g&tbm=shop&ei=zWWRZcOPDP28ptQPvYW1oA8&start=360&sa=N&ved=0ahUKEwiDqvm83bmDAxV9nokEHb1CDfQQ8tMDCL0i"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&start=60&tbs=vw%3Ag",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&start=60&tbs=vw%3Ag",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&start=60&tbs=vw%3Ag",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&start=120&tbs=vw%3Ag",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&start=180&tbs=vw%3Ag",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&start=240&tbs=vw%3Ag",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&start=300&tbs=vw%3Ag",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=black+hoodie&start=360&tbs=vw%3Ag"
+    }
+  }
+}
