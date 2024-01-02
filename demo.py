@@ -1,6 +1,7 @@
 from serpapi import GoogleSearch
 import os
 import json
+import gradio as gr
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -20,6 +21,7 @@ def get_data(keyword: str):
     json.dump(results, open('results.json', 'w'), indent=2)
 get_data('black hoodie')
 
+# try to make access 
 
 # from google_web_scrappper import get_data
 # get_data(prompt_input)
