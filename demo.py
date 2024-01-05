@@ -5,6 +5,7 @@ import uuid
 import json
 import streamlit as st
 import google.generativeai as genai
+from PIL import Image
 
 from dotenv import load_dotenv
 
@@ -16,16 +17,26 @@ SEARCH_API = os.environ.get('SEARCH_API')
 print("google-generativeai:", genai.__version__)
 
 def get_data(keyword: str):
-    params = {
-        "api_key": SEARCH_API,
-        "engine": "google_shopping",
-        "q": keyword,
-        "google_domain": "google.com"
-    }
-
-    search = GoogleSearch(params)
-    results = search.get_dict()
-    json.dump(results, open('results.json', 'w'), indent=2)
+    
+    prompt = f"Give me search prompt for this description online : {keyword}"
+    response = model.generate_content(
+        prompt,
+        stream=True,
+        generation_config=generation_config)
+    
+    try:
+      response.resolve()
+      params = {
+          "api_key": SEARCH_API,
+          "engine": "google_shopping",
+          "q": str(response.text),
+          "google_domain": "google.com"
+      }
+      search = GoogleSearch(params)
+      results = search.get_dict()
+      json.dump(results, open('results.json', 'w'), indent=2)
+    except Exception as e:
+      print(f'{type(e).__name__}: {e}')
 
 
 # from google_web_scrappper import get_data
@@ -70,38 +81,46 @@ model = genai.GenerativeModel(model_name="gemini-pro",
                               safety_settings=safety_settings)
 
 st.title("AI Search Agent")
-text_search = st.text_input("Search videos by title or speaker", value="")
+
+container = st.container()
+text_search = container.text_input("Search videos by title or speaker", value="")
+upload_button = container.button("Upload Image")
 
 response : str = ''
 
-col1, col2 = st.columns(2)
+page = 5
+
+json_data = ''
 
 def click_button():
-    clicked = True
+    page += 5
+    for item in json_data['shopping_results'][page:page+5]:
+        card(item)
+
+def card(data):
+  with st.container(): 
+      st.text(data['title'])
+      st.image(data['thumbnail'],width=100)
+      st.link_button('Product Market : ' + data['source'],data['link'])
+      st.text('Price : ' + data['price'])
+      st.divider()
 
 if text_search:
-    # get_data(text_search)
+    get_data(text_search)
+    
+    results_container = st.container()
     
     with open('results.json') as json_file:
-        json_data = json.load(json_file)
+      json_data = json.load(json_file)
+      
+    if(json_data):
+        print(json_data['shopping_results'])
     
-    # if(json_data):
-    #     prompt = f"Give me title,link,price and thumbnail from {json_data['shopping_results']}"
-    #     response = model.generate_content(
-    #         prompt,
-    #         stream=True,
-    #         generation_config=generation_config)
-
-    # chatbot = []
-    # for chunk in response:
-    #     for i in range(0,len(chunk.text),10):
-    #         chatbot.append(chunk.text)
-    # if clicked == True:
-    for item in json_data['shopping_results'][:5]:
-        with st.container(): 
-          st.text(item['title'])
-          st.image(item['thumbnail'],width=100)
-          st.link_button('Product Market : ' + item['source'],item['link'])
-          st.text('Price : ' + item['price'])
-          st.divider()
-    st.button('load more...',on_click=click_button)
+        for item in json_data['shopping_results'][:page]:
+            card(item)
+        
+        if st.button("Add More Results"):   
+            page += 5
+            for item in json_data['shopping_results'][page:page+5]:
+                with results_container:
+                  card(item)
