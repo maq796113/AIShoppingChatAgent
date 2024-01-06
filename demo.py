@@ -83,9 +83,9 @@ model = genai.GenerativeModel(model_name="gemini-pro",
 st.title("AI Search Agent")
 
 container = st.container()
-text_search = container.text_input("Search videos by title or speaker", value="")
-upload_button = container.button("Upload Image")
-
+text_search = container.text_input("Search by text", value="")
+upload_button = container.text("Or")
+upload_file = container.file_uploader("Upload Image",type=["png","jpg","jpeg"])
 response : str = ''
 
 page = 5
@@ -109,7 +109,7 @@ if text_search:
     get_data(text_search)
     
     results_container = st.container()
-    
+        
     with open('results.json') as json_file:
       json_data = json.load(json_file)
       
@@ -124,3 +124,7 @@ if text_search:
             for item in json_data['shopping_results'][page:page+5]:
                 with results_container:
                   card(item)
+if upload_file:
+  st.write('upload succeed')
+  img = Image.open(upload_file).convert('RGB')
+  st.image(img)
