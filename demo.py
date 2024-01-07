@@ -80,6 +80,8 @@ model = genai.GenerativeModel(model_name="gemini-pro",
                               generation_config=generation_config,
                               safety_settings=safety_settings)
 
+vision_model = genai.GenerativeModel('gemini-pro-vision')
+
 st.title("AI Search Agent")
 
 container = st.container()
@@ -126,5 +128,12 @@ if text_search:
                   card(item)
 if upload_file:
   st.write('upload succeed')
-  img = Image.open(upload_file).convert('RGB')
-  st.image(img)
+  text_prompt = 'describe this clothes as search for a product'
+  image_prompt = Image.open(upload_file).convert('RGB')
+  response = vision_model.generate_content(
+    text_prompt + image_prompt,
+    stream=True,
+    generation_config=generation_config,
+    safety_settings=safety_settings)
+  # st.image(img)
+  print(str(response.text))
